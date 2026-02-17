@@ -1,0 +1,1409 @@
+league,matchid,inningsno,battingteam,playername,batpos,runs,balls,fours,sixes,sr,howout
+224,3763,1,PETIT PANTHERS (ISDT 8.0),Sachin Deshpande,1,20,19,2,0,105.26,St Navin R b Ajit V
+224,3763,1,PETIT PANTHERS (ISDT 8.0),Naved Shariff,2,77,53,9,1,145.28,St Navin R b Vikram P
+224,3763,1,PETIT PANTHERS (ISDT 8.0),Shawn Brindley,3,6,11,0,0,54.55,b Sahil S
+224,3763,1,PETIT PANTHERS (ISDT 8.0),Sachin Jadhavar,4,41,22,5,1,186.36,c † Navin R b Nishant S
+224,3763,1,PETIT PANTHERS (ISDT 8.0),Shakir Shandiwan,5,20,9,0,2,222.22,not out
+224,3763,1,PETIT PANTHERS (ISDT 8.0),Asadali Vakil,6,13,6,1,1,216.67,not out
+224,3763,2,OIS TIGERS (ISDT 8.0),Abhishek Dutt,1,4,5,1,0,80.0,c † Shawn B b Sachin D
+224,3763,2,OIS TIGERS (ISDT 8.0),Varun Gambhir,2,22,15,3,1,146.67,run out ( Harshraj A )
+224,3763,2,OIS TIGERS (ISDT 8.0),Vikram Panjwani,3,2,5,0,0,40.0,run out ( Naved S )
+224,3763,2,OIS TIGERS (ISDT 8.0),Sharad Kelkar,4,58,32,9,2,181.25,b Munawar M
+224,3763,2,OIS TIGERS (ISDT 8.0),Arun Madhu,5,29,26,3,0,111.54,c&b Kashif S
+224,3763,2,OIS TIGERS (ISDT 8.0),Gopal Bhutda,6,0,1,0,0,0.0,b Kashif S
+224,3763,2,OIS TIGERS (ISDT 8.0),Ajit Virwani,7,23,12,4,0,191.67,c † Shawn B b Sachin J
+224,3763,2,OIS TIGERS (ISDT 8.0),Punit Gambhir,8,11,9,2,0,122.22,b Sachin J
+224,3763,2,OIS TIGERS (ISDT 8.0),Navin Rupani,9,11,7,1,0,157.14,not out
+224,3763,2,OIS TIGERS (ISDT 8.0),Sahil Shah,10,5,3,1,0,166.67,not out
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Mayur .,1,8,7,2,0,114.29,c † Siddharth S b Deven D
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Charles Sam,2,9,16,2,0,56.25,run out ( Siddharth K )
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Aditya .,3,3,4,0,0,75.0,c Gautam S b Pratik D
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Nikhil .,4,24,22,4,0,109.09,b Deven D
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Prateek .,5,18,16,1,1,112.5,c Shailesh M b Asgar K
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Himanshu .,6,2,5,0,0,40.0,c † Siddharth S b Rushabh S
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Shashank .,7,17,8,2,1,212.5,c&b Asgar K
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Vruturaj .,8,0,2,0,0,0.0,b Asgar K
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Manthan .,9,13,23,1,0,56.52,not out
+224,3768,1,SCOTTISH STARS (ISDT 8.0),Prerak .,10,13,17,1,0,76.47,not out
+224,3768,2,UTPAL WARRIORS (ISDT 8.0),Siddharth Kadam,1,69,34,13,1,202.94,not out
+224,3768,2,UTPAL WARRIORS (ISDT 8.0),Deven Dhruva,2,7,5,1,0,140.0,b Prateek .
+224,3768,2,UTPAL WARRIORS (ISDT 8.0),Pavan Shah,3,19,11,1,1,172.73,c † Aditya . b Nikhil .
+224,3768,2,UTPAL WARRIORS (ISDT 8.0),Sadanand Poojary,4,11,5,1,0,220.0,not out
+224,3772,1,NIS LAKERS (ISDT 8.0),Gautam Jain,1,17,21,1,0,80.95,b Vaseem L
+224,3772,1,NIS LAKERS (ISDT 8.0),Umesh Mehra,2,0,2,0,0,0.0,lbw b Rayed M
+224,3772,1,NIS LAKERS (ISDT 8.0),Anirudh S,3,0,3,0,0,0.0,c&b Rayed M
+224,3772,1,NIS LAKERS (ISDT 8.0),Dhiraj Sharma,4,27,25,4,0,108.0,St Ribhu D b Sadiq L
+224,3772,1,NIS LAKERS (ISDT 8.0),Amol Saxena,5,30,26,3,1,115.38,b Vineet K
+224,3772,1,NIS LAKERS (ISDT 8.0),Kartik Chopda,6,25,25,1,0,100.0,not out
+224,3772,1,NIS LAKERS (ISDT 8.0),Jitendra Singh,7,4,6,0,0,66.67,b Vineet K
+224,3772,1,NIS LAKERS (ISDT 8.0),Prateek Baid,8,15,13,1,0,115.38,not out
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Deepan Mankad,1,7,13,1,0,53.85,c Anirudh S b Girish .
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Ribhu Dasgupta,2,5,7,1,0,71.43,c † Gautam J b Jitendra S
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Ashish Lala,3,29,17,3,1,170.59,c Amol S b Girish .
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Swapneel Hazare,4,12,19,1,0,63.16,c Dhiraj S b Amol S
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Vaseem Lashkaria,5,0,4,0,0,0.0,c Dhiraj S b Amol S
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Ajay Dsilva,6,0,1,0,0,0.0,b Amol S
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Sadiq Lashkaria,7,42,26,4,1,161.54,not out
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Rayed Merchant,8,23,23,1,1,100.0,c Kartik C b Jalpan S
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Kartik Kapoor,9,4,4,0,0,100.0,c † Gautam J b Vibhu M
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Harsh Dugar,10,0,1,0,0,0.0,lbw b Vibhu M
+224,3772,2,JBCN AVENGERS (ISDT 8.0),Fahim Akhtar,11,1,5,0,0,20.0,not out
+224,3816,1,BD ROYALS (ISDT 8.0),Suchit Shah,1,28,15,4,1,186.67,c Kanav H b Varun S
+224,3816,1,BD ROYALS (ISDT 8.0),Vinay Jain,2,79,56,7,3,141.07,not out
+224,3816,1,BD ROYALS (ISDT 8.0),Ankit Shah,3,23,24,3,0,95.83,St Manaan G b Abhishek P
+224,3816,1,BD ROYALS (ISDT 8.0),Ankit Sanghvi,4,11,10,1,0,110.0,run out ( Aditya J )
+224,3816,1,BD ROYALS (ISDT 8.0),Himanshu Ranka,5,18,10,2,1,180.0,c Manaan G b Pradeep T
+224,3816,1,BD ROYALS (ISDT 8.0),Jay Desai .,6,4,5,0,0,80.0,not out
+224,3816,2,JNS SUPREMOS (ISDT 8.0),Varun Sood,1,5,7,0,0,71.43,b Suchit S
+224,3816,2,JNS SUPREMOS (ISDT 8.0),Pratik Chitalia,2,25,23,3,0,108.7,c Ankit S b Himanshu R
+224,3816,2,JNS SUPREMOS (ISDT 8.0),Manaan Gandhi,3,9,10,1,0,90.0,c Ankit S b Rishabh S
+224,3816,2,JNS SUPREMOS (ISDT 8.0),Rahul Agarwal,4,27,25,1,0,108.0,run out ( Amit M )
+224,3816,2,JNS SUPREMOS (ISDT 8.0),Abhishek Pingley,5,28,21,2,1,133.33,b Rajiv H
+224,3816,2,JNS SUPREMOS (ISDT 8.0),Kanav Hingorani,6,25,21,3,0,119.05,c Himanshu R b Shamit D
+224,3816,2,JNS SUPREMOS (ISDT 8.0),Navratan Bengani,7,22,16,1,0,137.5,not out
+224,3817,1,DAIS ACES (ISDT 8.0),Vinit Sheth,1,5,4,1,0,125.0,c † Akshay C b Ashay D
+224,3817,1,DAIS ACES (ISDT 8.0),Pranav Marwah,2,58,47,5,0,123.4,c Nitin K b Kunal M
+224,3817,1,DAIS ACES (ISDT 8.0),Kumar Singhee,3,35,26,4,0,134.62,b Munish T
+224,3817,1,DAIS ACES (ISDT 8.0),Siddhart Gopalkrishnan,4,23,15,1,1,153.33,b Munish T
+224,3817,1,DAIS ACES (ISDT 8.0),Kalp Parikh,5,18,13,0,0,138.46,St Akshay C b Jaineel A
+224,3817,1,DAIS ACES (ISDT 8.0),Harsh Shah,6,9,8,1,0,112.5,not out
+224,3817,1,DAIS ACES (ISDT 8.0),Divya Mehta,7,10,7,0,0,142.86,not out
+224,3817,2,JBCN UNITED (ISDT 8.0),Chirag Modi,1,3,7,0,0,42.86,c Siddhart G b Divya M
+224,3817,2,JBCN UNITED (ISDT 8.0),Anshuman Agarwalla,2,16,14,2,0,114.29,b Hrithik .
+224,3817,2,JBCN UNITED (ISDT 8.0),Pranav P. Sanghvi,3,12,8,1,1,150.0,b Pranav M
+224,3817,2,JBCN UNITED (ISDT 8.0),Jaineel Aga,4,29,13,5,1,223.08,c † Kumar S b Nikhil K
+224,3817,2,JBCN UNITED (ISDT 8.0),Akshay Chadha,5,12,10,1,0,120.0,run out ( Pranav M )
+224,3817,2,JBCN UNITED (ISDT 8.0),Bhavik Vasa,6,15,28,0,0,53.57,b Krshna B
+224,3817,2,JBCN UNITED (ISDT 8.0),Ashish Kamdar,7,0,1,0,0,0.0,b Pranav M
+224,3817,2,JBCN UNITED (ISDT 8.0),Nitin Kukreja,8,5,9,0,0,55.56,lbw b Krshna B
+224,3817,2,JBCN UNITED (ISDT 8.0),Saumil Gandhi,9,6,9,0,0,66.67,c † Kumar S b Krshna B
+224,3817,2,JBCN UNITED (ISDT 8.0),Munish Tahiliani,10,5,10,0,0,50.0,c Kalp P b Bhoumick V
+224,3817,2,JBCN UNITED (ISDT 8.0),Brijesh Advani,11,3,6,0,0,50.0,not out
+224,3818,1,JNS MUSTANGS (ISDT 8.0),Jeetinder Diwan,1,105,60,13,4,175.0,not out
+224,3818,1,JNS MUSTANGS (ISDT 8.0),Karan Jain,2,1,4,0,0,25.0,run out ( Harshraj A )
+224,3818,1,JNS MUSTANGS (ISDT 8.0),Dheeraj Shriyan,3,26,22,2,1,118.18,c&b Harshraj A
+224,3818,1,JNS MUSTANGS (ISDT 8.0),Vikas Linga,4,6,5,0,0,120.0,lbw b Munawar M
+224,3818,1,JNS MUSTANGS (ISDT 8.0),Niraj Parab,5,20,11,4,0,181.82,c Rabinder S b Ranjith K
+224,3818,1,JNS MUSTANGS (ISDT 8.0),Rohit Saraf,6,9,5,0,1,180.0,b Ranjith K
+224,3818,1,JNS MUSTANGS (ISDT 8.0),Viral Amin,7,2,2,0,0,100.0,run out ( Rabinder S )
+224,3818,1,JNS MUSTANGS (ISDT 8.0),Hemal Chitalia,8,29,12,5,0,241.67,not out
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Huzaifa Shamsi,1,10,16,1,0,62.5,St Rishiraj L b Meet S
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Naved Shariff,2,5,5,1,0,100.0,b Hitesh P
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Asadali Vakil,3,87,50,9,2,174.0,c Viral A b Rajeev A
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Sachin Jadhavar,4,13,7,1,1,185.71,c Vikas L b Jekin S
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Shawn Brindley,5,26,25,3,1,104.0,St Rishiraj L b Meet S
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Harshraj Alaspure,6,0,1,0,0,0.0,b Meet S
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Rabinder Singh,7,16,13,1,1,123.08,St Rishiraj L b Vikas L
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Munawar Mansuri,8,0,1,0,0,0.0,not out
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Sheldon Gonsalves,9,0,1,0,0,0.0,run out ( Hemal C )
+224,3818,2,PETIT PANTHERS (ISDT 8.0),Ranjith Kariyat,10,1,1,0,0,100.0,not out
+224,3819,1,JBCN STARS (ISDT 8.0),Viral Somaiya,1,8,6,2,0,133.33,c Karan C b Sunil P
+224,3819,1,JBCN STARS (ISDT 8.0),Pranay Nigotiya,2,11,23,2,0,47.83,b Sunil P
+224,3819,1,JBCN STARS (ISDT 8.0),Kaushal Goenka,3,6,6,0,0,100.0,run out ( Isaac N )
+224,3819,1,JBCN STARS (ISDT 8.0),Hardik Matalia,4,3,14,0,0,21.43,run out ( Ojas M )
+224,3819,1,JBCN STARS (ISDT 8.0),Ankur Aggarwal,5,10,13,1,0,76.92,c&b Sunil P
+224,3819,1,JBCN STARS (ISDT 8.0),Amit Dassani,6,25,25,2,1,100.0,run out ( Isaac N )
+224,3819,1,JBCN STARS (ISDT 8.0),Bhavik Dharia,7,8,14,0,0,57.14,c Pavan P b Vinod G
+224,3819,1,JBCN STARS (ISDT 8.0),Dushyant Jain,8,4,10,0,0,40.0,St Premjit T b Tripooraj D
+224,3819,1,JBCN STARS (ISDT 8.0),Kawal Arora,9,2,5,0,0,40.0,not out
+224,3819,1,JBCN STARS (ISDT 8.0),Kinjan Vasant,10,1,2,0,0,50.0,b Tripooraj D
+224,3819,1,JBCN STARS (ISDT 8.0),Karan Sharma,11,3,2,0,0,150.0,not out
+224,3819,2,SCOTTISH STRIKING STARS (ISDT 8.0),Karan Chugh,1,49,24,6,2,204.17,not out
+224,3819,2,SCOTTISH STRIKING STARS (ISDT 8.0),Jeetendra Mulchandani,2,18,12,3,0,150.0,not out
+224,3821,1,JNS TOROS (ISDT 8.0),Rakesh Wadhwani,1,86,58,6,2,148.28,not out
+224,3821,1,JNS TOROS (ISDT 8.0),Kunal Jhaveri,2,32,21,3,1,152.38,lbw b Mitesh Z
+224,3821,1,JNS TOROS (ISDT 8.0),Keyur M Shah,3,18,21,1,0,85.71,b Jinesh S
+224,3821,1,JNS TOROS (ISDT 8.0),Manoje Biddvai,4,9,8,1,0,112.5,c † Bhavin S b Mitesh Z
+224,3821,1,JNS TOROS (ISDT 8.0),Vishal Majmudar,5,15,11,2,0,136.36,St Bhavin S b Jinesh S
+224,3821,1,JNS TOROS (ISDT 8.0),Vikas Arora,6,6,1,0,1,600.0,not out
+224,3821,2,MRV RISERS (ISDT 8.0),Rohan Patel,1,21,17,4,0,123.53,run out ( Divi S )
+224,3821,2,MRV RISERS (ISDT 8.0),Chinmay Dalvi,2,0,1,0,0,0.0,b Shamin K
+224,3821,2,MRV RISERS (ISDT 8.0),Jinesh Shah,3,14,26,0,0,53.85,not out
+224,3821,2,MRV RISERS (ISDT 8.0),Pramod Chandan,4,1,2,0,0,50.0,c † Manoje B b Shobhan P
+224,3821,2,MRV RISERS (ISDT 8.0),Dhruven Jain,5,8,8,1,0,100.0,c Tejas P D b Divi S
+224,3821,2,MRV RISERS (ISDT 8.0),Mayur Bikhchandani,6,18,16,3,0,112.5,c Gurmeet Singh A b Tejas P D
+224,3821,2,MRV RISERS (ISDT 8.0),Jignesh Jain,7,0,5,0,0,0.0,c † Manoje B b Divi S
+224,3821,2,MRV RISERS (ISDT 8.0),Sarfaraz Momin,8,6,12,1,0,50.0,c&b Tejas P D
+224,3821,2,MRV RISERS (ISDT 8.0),Sahil Shah,9,12,17,1,0,70.59,c&b Ashank S
+224,3821,2,MRV RISERS (ISDT 8.0),Bhavin Shah,10,12,14,1,0,85.71,c Kunal J b Don S
+224,3821,2,MRV RISERS (ISDT 8.0),Ritesh Parekh,11,0,4,0,0,0.0,not out
+224,3822,1,JNS SUPREMOS (ISDT 8.0),Rahul Agarwal,1,24,26,3,0,92.31,c Ashwin P b Mahesh B
+224,3822,1,JNS SUPREMOS (ISDT 8.0),Jay Kedia,2,22,25,0,1,88.0,c † Amit M b Akshay B
+224,3822,1,JNS SUPREMOS (ISDT 8.0),Lavesh Kalsekar,3,18,15,1,0,120.0,c Prathmesh P b Mahesh B
+224,3822,1,JNS SUPREMOS (ISDT 8.0),Navratan Bengani,4,33,21,4,0,157.14,b Balakrishna S
+224,3822,1,JNS SUPREMOS (ISDT 8.0),Sheel Vora,5,12,13,1,0,92.31,b Nishant P
+224,3822,1,JNS SUPREMOS (ISDT 8.0),Abhishek Pingley,6,14,10,2,0,140.0,not out
+224,3822,1,JNS SUPREMOS (ISDT 8.0),Varun Sood,7,7,8,0,0,87.5,St Amit M b Balakrishna S
+224,3822,1,JNS SUPREMOS (ISDT 8.0),Vishal Merwana,8,1,2,0,0,50.0,b Balakrishna S
+224,3822,2,AVM ARYANS (ISDT 8.0),Vinesh .,1,4,3,1,0,133.33,lbw b Vishal .
+224,3822,2,AVM ARYANS (ISDT 8.0),Mayur Joshi,2,10,11,1,0,90.91,c Lavesh K b Pradeep T
+224,3822,2,AVM ARYANS (ISDT 8.0),Balakrishna Shirke,3,5,4,1,0,125.0,c Pritesh M b Vishal .
+224,3822,2,AVM ARYANS (ISDT 8.0),Prathmesh Parle,4,12,16,1,0,75.0,b Varun S
+224,3822,2,AVM ARYANS (ISDT 8.0),Bhagyesh .,5,39,31,3,1,125.81,b Varun S
+224,3822,2,AVM ARYANS (ISDT 8.0),Tushar Shinde,6,30,26,2,0,115.38,run out ( Vishal M )
+224,3822,2,AVM ARYANS (ISDT 8.0),Akshay Borkar,7,14,14,1,1,100.0,St Jay K b Varun S
+224,3822,2,AVM ARYANS (ISDT 8.0),Amit Meherotra,8,0,3,0,0,0.0,b Varun S
+224,3822,2,AVM ARYANS (ISDT 8.0),Siddhant Dalmia,9,0,2,0,0,0.0,c Jay K b Pradeep T
+224,3822,2,AVM ARYANS (ISDT 8.0),Ashwin Pathak,10,0,1,0,0,0.0,c Jay K b Pradeep T
+224,3822,2,AVM ARYANS (ISDT 8.0),Nishant Patankar,11,2,2,0,0,100.0,not out
+224,3823,1,BD ROYALS (ISDT 8.0),Suchit Shah,1,43,25,9,0,172.0,c Jay P b Vinod L
+224,3823,1,BD ROYALS (ISDT 8.0),Vinay Jain,2,19,14,3,0,135.71,c Nishit . b Vinod L
+224,3823,1,BD ROYALS (ISDT 8.0),Haresh Adnani,3,31,22,4,0,140.91,b Happy B
+224,3823,1,BD ROYALS (ISDT 8.0),Babul Mody,4,46,32,2,2,143.75,c Vinod L b Happy B
+224,3823,1,BD ROYALS (ISDT 8.0),Himanshu Ranka,5,19,15,1,1,126.67,b Nishit .
+224,3823,1,BD ROYALS (ISDT 8.0),Ankit Shah,6,9,7,0,0,128.57,not out
+224,3823,1,BD ROYALS (ISDT 8.0),Amit Minde,7,6,5,1,0,120.0,not out
+224,3823,2,OIS BLASTERS (ISDT 8.0),Vinod Lund,1,18,10,0,2,180.0,run out ( Rishabh S )
+224,3823,2,OIS BLASTERS (ISDT 8.0),Anant Jain,2,4,9,1,0,44.44,c Vinay J b Rishabh S
+224,3823,2,OIS BLASTERS (ISDT 8.0),Rishi Pilani,3,75,56,10,0,133.93,b Saurabh J
+224,3823,2,OIS BLASTERS (ISDT 8.0),Pratik Sanghavi,4,5,8,0,0,62.5,c Vinay J b Suchit S
+224,3823,2,OIS BLASTERS (ISDT 8.0),Kunal .,5,18,15,0,1,120.0,c Himanshu R b Shamit D
+224,3823,2,OIS BLASTERS (ISDT 8.0),Sourabh Shah,6,5,8,0,0,62.5,run out ( Ankit S )
+224,3823,2,OIS BLASTERS (ISDT 8.0),Happy Bindra,7,0,0,0,0,0.0,run out ( Shamit D )
+224,3823,2,OIS BLASTERS (ISDT 8.0),Jay Parikh,8,3,5,0,0,60.0,run out ( Ankit S )
+224,3823,2,OIS BLASTERS (ISDT 8.0),Jindal .,9,3,4,0,0,75.0,not out
+224,3823,2,OIS BLASTERS (ISDT 8.0),Arnab .,10,0,5,0,0,0.0,not out
+224,3825,1,GREENLAWNS GLADIATORS (ISDT 8.0),Hiral Gandhi,1,24,15,5,0,160.0,b Krupesh V
+224,3825,1,GREENLAWNS GLADIATORS (ISDT 8.0),Viral Shah,2,4,3,1,0,133.33,c&b Amit P
+224,3825,1,GREENLAWNS GLADIATORS (ISDT 8.0),Ronak Jhaveri,3,3,3,0,0,100.0,b Gaurav M
+224,3825,1,GREENLAWNS GLADIATORS (ISDT 8.0),Hitesh Bhayani,4,58,33,3,5,175.76,c Gaurav M b Krupesh V
+224,3825,1,GREENLAWNS GLADIATORS (ISDT 8.0),Jigar Parikh,5,36,27,3,1,133.33,b Naresh N
+224,3825,1,GREENLAWNS GLADIATORS (ISDT 8.0),Jimish Shah,6,48,29,3,4,165.52,b Gaurav M
+224,3825,1,GREENLAWNS GLADIATORS (ISDT 8.0),Samkit Shah,7,15,11,1,1,136.36,not out
+224,3825,2,AB WARRIORS (ISDT 8.0),Aditya Rajadhyaksha,1,0,3,0,0,0.0,b Sunny J
+224,3825,2,AB WARRIORS (ISDT 8.0),Vishal Shah,2,23,13,4,0,176.92,run out ( Chirag D )
+224,3825,2,AB WARRIORS (ISDT 8.0),Gaurav Mehta,3,43,23,6,1,186.96,c Hitesh B b Jitu K
+224,3825,2,AB WARRIORS (ISDT 8.0),Nirav Talsania,4,2,8,0,0,25.0,run out ( Dhimant M )
+224,3825,2,AB WARRIORS (ISDT 8.0),Paras Zaveri,5,74,41,9,3,180.49,Retired Out
+224,3825,2,AB WARRIORS (ISDT 8.0),Amit Photographer,6,34,25,4,0,136.0,not out
+224,3825,2,AB WARRIORS (ISDT 8.0),Naresh Naik,7,1,3,0,0,33.33,run out ( Hitesh B / Viral S )
+224,3825,2,AB WARRIORS (ISDT 8.0),Ravi Makharia,8,3,4,0,0,75.0,St Hiral G b Viral S
+224,3826,1,PODAR PHANTOMS (ISDT 8.0),Pooran Kshatriya,1,30,33,2,1,90.91,St Kamesh S b Anand B
+224,3826,1,PODAR PHANTOMS (ISDT 8.0),Rushin Modi,2,3,7,0,0,42.86,c Lokesh R b Alok M
+224,3826,1,PODAR PHANTOMS (ISDT 8.0),Jayan Shah,3,17,18,2,0,94.44,c Yatin M b Vipin J
+224,3826,1,PODAR PHANTOMS (ISDT 8.0),Jay Samant,4,1,2,0,0,50.0,c Lokesh R b Anand B
+224,3826,1,PODAR PHANTOMS (ISDT 8.0),Raviraj Shetty,5,14,12,2,0,116.67,c Lokesh R b Vipin J
+224,3826,1,PODAR PHANTOMS (ISDT 8.0),Dishant Raghani,6,12,11,1,0,109.09,c † Kamesh S b Vipin J
+224,3826,1,PODAR PHANTOMS (ISDT 8.0),Rupesh More,7,25,18,2,0,138.89,not out
+224,3826,1,PODAR PHANTOMS (ISDT 8.0),Rahul Patel,8,17,19,1,0,89.47,not out
+224,3826,2,USG GLADDIATORS (ISDT 8.0),Deepaq Modgil,1,5,4,1,0,125.0,c Rupesh M b Jay S
+224,3826,2,USG GLADDIATORS (ISDT 8.0),Sandip Jajo,2,11,17,0,0,64.71,b Paresh S
+224,3826,2,USG GLADDIATORS (ISDT 8.0),Yatin Mora,3,9,23,0,0,39.13,c † Dishant R b Paresh S
+224,3826,2,USG GLADDIATORS (ISDT 8.0),Lokesh Rughani,4,34,31,1,0,109.68,b Jay S
+224,3826,2,USG GLADDIATORS (ISDT 8.0),Ronak Mehta,5,29,21,3,1,138.1,lbw b Jayan S
+224,3826,2,USG GLADDIATORS (ISDT 8.0),Kamesh Shah,6,22,19,2,0,115.79,not out
+224,3826,2,USG GLADDIATORS (ISDT 8.0),Ritesh Bhalani,7,1,1,0,0,100.0,run out ( Raviraj S )
+224,3826,2,USG GLADDIATORS (ISDT 8.0),Ram Verma,8,4,3,1,0,133.33,not out
+224,3827,1,JBCN UNITED (ISDT 8.0),Chirag Modi,1,26,29,2,0,89.66,c † Rahul P b Karan D
+224,3827,1,JBCN UNITED (ISDT 8.0),Anshuman Agarwalla,2,11,13,2,0,84.62,b Anuj G
+224,3827,1,JBCN UNITED (ISDT 8.0),Jaineel Aga,3,3,3,0,0,100.0,c Nikhil K b Rahul P
+224,3827,1,JBCN UNITED (ISDT 8.0),Akshay Chadha,4,0,3,0,0,0.0,lbw b Rahul P
+224,3827,1,JBCN UNITED (ISDT 8.0),Tejas Chaudhari,5,25,25,3,0,100.0,lbw b Chintit V
+224,3827,1,JBCN UNITED (ISDT 8.0),Nitin Kukreja,6,15,14,1,0,107.14,c † Rahul P b Karan D
+224,3827,1,JBCN UNITED (ISDT 8.0),Bhavik Vasa,7,8,12,0,0,66.67,b Karan D
+224,3827,1,JBCN UNITED (ISDT 8.0),Pranav P. Sanghvi,8,20,17,1,0,117.65,not out
+224,3827,1,JBCN UNITED (ISDT 8.0),Saumil Gandhi,9,2,3,0,0,66.67,b Chintit V
+224,3827,1,JBCN UNITED (ISDT 8.0),Munish Tahiliani,10,2,2,0,0,100.0,run out ( Anuj G )
+224,3827,2,CAMP RANGERS (ISDT 8.0),Nikhil Kothari,1,0,1,0,0,0.0,b Ashay D
+224,3827,2,CAMP RANGERS (ISDT 8.0),Amish Dani,2,18,16,3,0,112.5,c Saumil G b Anshuman A
+224,3827,2,CAMP RANGERS (ISDT 8.0),Jay Patrawala,3,5,9,1,0,55.56,b Rohith B
+224,3827,2,CAMP RANGERS (ISDT 8.0),Anuj Goyal,4,24,12,4,0,200.0,c Tejas C b Munish T
+224,3827,2,CAMP RANGERS (ISDT 8.0),Vivek Kapadia,5,0,0,0,0,0.0,run out ( Anshuman A )
+224,3827,2,CAMP RANGERS (ISDT 8.0),Rahul Pandey,6,19,18,4,0,105.56,b Ashay D
+224,3827,2,CAMP RANGERS (ISDT 8.0),Zubin Engineer,7,29,32,4,0,90.62,not out
+224,3827,2,CAMP RANGERS (ISDT 8.0),Karan Doshi,8,15,23,1,0,65.22,run out ( Tejas C )
+224,3827,2,CAMP RANGERS (ISDT 8.0),Chintit Vora,9,4,1,1,0,400.0,not out
+224,3828,1,GE ROARING TIGERS (ISDT 8.0),Pranav Soparkar,1,1,3,0,0,33.33,c Kartik R b Karan J
+224,3828,1,GE ROARING TIGERS (ISDT 8.0),Yogesh Wagh,2,70,56,6,2,125.0,not out
+224,3828,1,GE ROARING TIGERS (ISDT 8.0),Prasad Arolkar,3,59,35,6,2,168.57,c Kalpesh B b Anay J
+224,3828,1,GE ROARING TIGERS (ISDT 8.0),Mayur Rathod,4,11,13,1,0,84.62,c&b Kalpesh B
+224,3828,1,GE ROARING TIGERS (ISDT 8.0),Sundaresh .,5,16,7,4,0,228.57,c Anay J b Kalpesh B
+224,3828,1,GE ROARING TIGERS (ISDT 8.0),Vipin Rai,6,17,7,3,0,242.86,not out
+224,3828,2,AB DEVILS (ISDT 8.0),Kalpesh Bohra,1,0,3,0,0,0.0,c Kiran P b Prasad A
+224,3828,2,AB DEVILS (ISDT 8.0),Girish Singhania,2,106,60,11,2,176.67,not out
+224,3828,2,AB DEVILS (ISDT 8.0),Nirav Kothari,3,5,7,0,0,71.43,c&b Prasad A
+224,3828,2,AB DEVILS (ISDT 8.0),Abhishek Joshi,4,1,7,0,0,14.29,lbw b Gurunath G
+224,3828,2,AB DEVILS (ISDT 8.0),Harshvardhan Roongta,5,34,27,5,0,125.93,lbw b Arvind S
+224,3828,2,AB DEVILS (ISDT 8.0),Dhawal Shah,6,0,2,0,0,0.0,b Harshwardhan D
+224,3828,2,AB DEVILS (ISDT 8.0),Kartik Rajendra,7,5,4,1,0,125.0,b Arvind S
+224,3828,2,AB DEVILS (ISDT 8.0),Anay Jhaveri,8,4,5,0,0,80.0,run out ( Kiran P )
+224,3828,2,AB DEVILS (ISDT 8.0),Karan Jhaveri,9,8,6,1,0,133.33,not out
+224,3829,1,JB SUPER DADS (ISDT 8.0),Shahen Mistry,1,10,17,0,0,58.82,c † Kumar S b Pranav M
+224,3829,1,JB SUPER DADS (ISDT 8.0),Behzaad Devadhvala,2,111,66,19,0,168.18,not out
+224,3829,1,JB SUPER DADS (ISDT 8.0),Harshal Shah,3,8,12,0,0,66.67,c † Kumar S b Harsh S
+224,3829,1,JB SUPER DADS (ISDT 8.0),Ankur Jhaveri,4,16,15,1,0,106.67,c&b Pranav M
+224,3829,1,JB SUPER DADS (ISDT 8.0),Sanjay Bohra,5,9,8,0,0,112.5,Retired Hurt
+224,3829,1,JB SUPER DADS (ISDT 8.0),Hiten Doshi,6,4,2,0,0,200.0,not out
+224,3829,2,DAIS ACES (ISDT 8.0),Vinit Sheth,1,8,6,2,0,133.33,b Gaurav D
+224,3829,2,DAIS ACES (ISDT 8.0),Pranav Marwah,2,13,12,2,0,108.33,Retired Hurt
+224,3829,2,DAIS ACES (ISDT 8.0),Kumar Singhee,3,20,19,2,0,105.26,c Gaurav D b Bhairav S
+224,3829,2,DAIS ACES (ISDT 8.0),Manoj Kikani,4,59,51,3,1,115.69,not out
+224,3829,2,DAIS ACES (ISDT 8.0),Harsh Shah,5,29,19,3,1,152.63,c Harshal S b Jatin V
+224,3829,2,DAIS ACES (ISDT 8.0),Kalp Parikh,6,18,10,1,1,180.0,c † Behzaad D b Gaurav D
+224,3829,2,DAIS ACES (ISDT 8.0),Bhoumick Vaidya,7,1,3,0,0,33.33,c&b Jatin V
+224,3830,1,MRV RISERS (ISDT 8.0),Chinmay Dalvi,1,0,1,0,0,0.0,b Sunil P
+224,3830,1,MRV RISERS (ISDT 8.0),Ashish Bafna,2,2,4,0,0,50.0,b Sunil P
+224,3830,1,MRV RISERS (ISDT 8.0),Chintesh Sanghvi,3,2,5,0,0,40.0,c Ojas M b Sunil P
+224,3830,1,MRV RISERS (ISDT 8.0),Dhruven Jain,4,2,7,0,0,28.57,lbw b Nishant R
+224,3830,1,MRV RISERS (ISDT 8.0),Mayur Bikhchandani,5,31,32,3,1,96.88,c&b Himanshu W
+224,3830,1,MRV RISERS (ISDT 8.0),Raj Soni,6,14,11,2,0,127.27,c Pavan P b Sunil P
+224,3830,1,MRV RISERS (ISDT 8.0),Pramod Chandan,7,12,18,1,0,66.67,b Advait G
+224,3830,1,MRV RISERS (ISDT 8.0),Sanjeev Rohra,8,29,24,1,0,120.83,not out
+224,3830,1,MRV RISERS (ISDT 8.0),Tejas Gada,9,16,18,0,0,88.89,not out
+224,3830,2,SCOTTISH STRIKING STARS (ISDT 8.0),Karan Chugh,1,25,10,3,2,250.0,c Mayur B b Pramod C
+224,3830,2,SCOTTISH STRIKING STARS (ISDT 8.0),Jeetendra Mulchandani,2,0,2,0,0,0.0,b Mitesh Z
+224,3830,2,SCOTTISH STRIKING STARS (ISDT 8.0),Premjit Tawde,3,18,20,3,0,90.0,b Mitesh Z
+224,3830,2,SCOTTISH STRIKING STARS (ISDT 8.0),Pavan Patheja,4,27,25,4,0,108.0,not out
+224,3830,2,SCOTTISH STRIKING STARS (ISDT 8.0),Ojas Mehta,5,34,27,6,0,125.93,not out
+224,3831,1,JNS SUPREMOS (ISDT 8.0),Pratik Chitalia,1,0,1,0,0,0.0,c † Vinit A b Jay P
+224,3831,1,JNS SUPREMOS (ISDT 8.0),Rahul Agarwal,2,10,12,2,0,83.33,run out ( Kunal . / Rishi P )
+224,3831,1,JNS SUPREMOS (ISDT 8.0),Lavesh Kalsekar,3,8,9,1,0,88.89,c † Rishi P b Jay P
+224,3831,1,JNS SUPREMOS (ISDT 8.0),Manaan Gandhi,4,51,43,7,0,118.6,run out ( Amitraj B )
+224,3831,1,JNS SUPREMOS (ISDT 8.0),Navratan Bengani,5,23,17,2,0,135.29,c&b Vinod L
+224,3831,1,JNS SUPREMOS (ISDT 8.0),Abhishek Pingley,6,1,2,0,0,50.0,c † Rishi P b Shivanand N
+224,3831,1,JNS SUPREMOS (ISDT 8.0),Kanav Hingorani,7,53,29,5,1,182.76,not out
+224,3831,1,JNS SUPREMOS (ISDT 8.0),Varun Sood,8,10,8,1,0,125.0,run out ( Amitraj B / Gautam M )
+224,3831,2,OIS BLASTERS (ISDT 8.0),Vinod Lund,1,63,44,5,3,143.18,c Kanav H b Pritesh M
+224,3831,2,OIS BLASTERS (ISDT 8.0),Pratik Sanghavi,2,4,11,0,0,36.36,c Rahul A b Varun S
+224,3831,2,OIS BLASTERS (ISDT 8.0),Rishi Pilani,3,21,31,0,0,67.74,c Abhishek P b Varun S
+224,3831,2,OIS BLASTERS (ISDT 8.0),Gautam M,4,20,17,1,0,117.65,c Varun S b Vishal .
+224,3831,2,OIS BLASTERS (ISDT 8.0),Kunal .,5,1,3,0,0,33.33,b Pritesh M
+224,3831,2,OIS BLASTERS (ISDT 8.0),Sourabh Shah,6,7,6,0,0,116.67,lbw b Varun S
+224,3831,2,OIS BLASTERS (ISDT 8.0),Happy Bindra,7,1,1,0,0,100.0,run out ( Rahul A / Vishal . )
+224,3831,2,OIS BLASTERS (ISDT 8.0),Vinit Agarwal,8,3,3,0,0,100.0,not out
+224,3831,2,OIS BLASTERS (ISDT 8.0),Amitraj Bachher,9,2,3,0,0,66.67,c Kanav H b Pritesh M
+224,3831,2,OIS BLASTERS (ISDT 8.0),Shivanand Nayak,10,1,2,0,0,50.0,run out ( Pratik C / Manaan G )
+224,3833,1,NIS LAKERS (ISDT 8.0),Anirudh S,1,10,8,2,0,125.0,c Ambrish P b Harshit R
+224,3833,1,NIS LAKERS (ISDT 8.0),Umesh Mehra,2,27,25,3,0,108.0,c Vijay S b Rahul D
+224,3833,1,NIS LAKERS (ISDT 8.0),Ankur Gupta,3,6,12,1,0,50.0,lbw b Nimesh F
+224,3833,1,NIS LAKERS (ISDT 8.0),Dhiraj Sharma,4,84,52,10,4,161.54,not out
+224,3833,1,NIS LAKERS (ISDT 8.0),Amol Saxena,5,17,15,1,0,113.33,c Mohammed B b Yazad W
+224,3833,1,NIS LAKERS (ISDT 8.0),Kartik Chopda,6,20,8,3,0,250.0,run out ( Mohammed B )
+224,3833,1,NIS LAKERS (ISDT 8.0),Girish .,7,0,0,0,0,0.0,run out ( Anzer C )
+224,3833,2,TRULY MARIANS (ISDT 8.0),Anzer Chougule,1,55,43,4,3,127.91,c Kartik C b Dhiraj S
+224,3833,2,TRULY MARIANS (ISDT 8.0),Vidyut Sodha,2,4,9,0,0,44.44,c Amol S b Girish .
+224,3833,2,TRULY MARIANS (ISDT 8.0),Vijay Singh,3,7,5,0,1,140.0,c Anirudh S b Amol S
+224,3833,2,TRULY MARIANS (ISDT 8.0),Mohammed Bori,4,35,32,5,0,109.38,b Kamaldeep Singh B
+224,3833,2,TRULY MARIANS (ISDT 8.0),Harshit Ramanlal Darji,5,3,6,0,0,50.0,c Ashish J b Rahul B
+224,3833,2,TRULY MARIANS (ISDT 8.0),Jinesh Indarmal Kothari,6,2,5,0,0,40.0,c Vibhu M b Rahul B
+224,3833,2,TRULY MARIANS (ISDT 8.0),Nirav Vora,7,16,12,1,0,133.33,not out
+224,3833,2,TRULY MARIANS (ISDT 8.0),Rahul Doshi,8,3,8,0,0,37.5,not out
+224,3834,1,OIS TIGERS (ISDT 8.0),Vicky Sujan,1,19,12,4,0,158.33,lbw b Sahil S
+224,3834,1,OIS TIGERS (ISDT 8.0),Abhishek Dutt,2,18,23,1,0,78.26,b Avneesh P
+224,3834,1,OIS TIGERS (ISDT 8.0),Vikram Panjwani,3,14,13,0,1,107.69,b Avneesh P
+224,3834,1,OIS TIGERS (ISDT 8.0),Arun Madhu,4,56,39,6,2,143.59,b Sahil S
+224,3834,1,OIS TIGERS (ISDT 8.0),Sharad Kelkar,5,0,1,0,0,0.0,c Sahil S b Avneesh P
+224,3834,1,OIS TIGERS (ISDT 8.0),Gopal Bhutda,6,42,19,5,2,221.05,run out ( Milin J )
+224,3834,1,OIS TIGERS (ISDT 8.0),Navin Rupani,7,14,10,0,1,140.0,c Sahil S b Pranay .
+224,3834,1,OIS TIGERS (ISDT 8.0),Punit Gambhir,8,2,2,0,0,100.0,run out ( Avneesh P )
+224,3834,1,OIS TIGERS (ISDT 8.0),Varun Gambhir,9,0,0,0,0,0.0,not out
+224,3834,1,OIS TIGERS (ISDT 8.0),Sarjak Sheth,10,0,1,0,0,0.0,b Sahil S
+224,3834,1,OIS TIGERS (ISDT 8.0),Bharat Kataria,11,0,1,0,0,0.0,run out ( Anandbir S )
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Gautam Sahni,1,0,1,0,0,0.0,c Bharat K b Nishant S
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Alok Desai,2,9,9,1,0,100.0,run out ( Vikram P )
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Avneesh Prasad,3,17,24,0,0,70.83,c&b Arun M
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Anandbir Singh,4,4,16,0,0,25.0,lbw b Sahil S
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Sahil Shah,5,18,22,1,0,81.82,c&b Sahil S
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Milin Jhaveri,6,9,8,1,0,112.5,c Arun M b Sahil S
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Hiren Gandhi,7,6,10,0,0,60.0,c Sahil S b Vikram P
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Nilesh K,8,13,15,2,0,86.67,lbw b Nishant S
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Bhavik Shah,9,19,8,4,0,237.5,not out
+224,3834,2,CATHEDRAL KNIGHTS (ISDT 8.0),Pranay .,10,8,7,0,0,114.29,not out
+224,3835,1,JNS MUSTANGS (ISDT 8.0),Jeetinder Diwan,1,4,9,1,0,44.44,lbw b Shreyansh J
+224,3835,1,JNS MUSTANGS (ISDT 8.0),Karan Jain,2,1,1,0,0,100.0,run out ( Shreyansh J )
+224,3835,1,JNS MUSTANGS (ISDT 8.0),Dheeraj Shriyan,3,107,50,13,5,214.0,run out ( Shreyansh J )
+224,3835,1,JNS MUSTANGS (ISDT 8.0),Rahul Sughand,4,41,36,4,0,113.89,c Vinay M b Rajesh J
+224,3835,1,JNS MUSTANGS (ISDT 8.0),Rohit Saraf,5,7,15,0,0,46.67,c Yatin M b Ritesh B
+224,3835,1,JNS MUSTANGS (ISDT 8.0),Vikas Linga,6,15,10,2,0,150.0,not out
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Deepaq Modgil,1,9,10,1,0,90.0,c Hemal C b Rohit S
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Vinay Malpani,2,0,1,0,0,0.0,b Rohit S
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Shreyansh Jain,3,0,3,0,0,0.0,lbw b Meet S
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Rajesh Jain,4,1,2,0,0,50.0,run out ( Rohit S )
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Sandip Jajo,5,2,4,0,0,50.0,lbw b Meet S
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Saumil Khandwala,6,0,4,0,0,0.0,b Meet S
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Yatin Mora,7,44,44,4,0,100.0,not out
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Ankkit Meswani,8,0,1,0,0,0.0,b Rohit S
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Kamesh Shah,9,9,21,0,0,42.86,b Niraj P
+224,3835,2,USG GLADDIATORS (ISDT 8.0),Ritesh Bhalani,10,51,31,6,2,164.52,not out
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Abdul Latif,1,2,7,0,0,28.57,lbw b Rayed M
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Mitesh Rajawat,2,0,1,0,0,0.0,b Rayed M
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Murtaza .,3,17,29,1,0,58.62,b Akhil S
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Imran Kagalwala,4,29,33,2,0,87.88,c Ribhu D b Sadiq L
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Yusuf Patel,5,16,15,2,0,106.67,c Akhil S b Sadiq L
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Bhavesh Jain,6,2,6,0,0,33.33,c Vineet K b Akhil S
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Shams .,7,1,2,0,0,50.0,St Satish S b Sadiq L
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Mahesh Patel,8,6,9,0,0,66.67,b Kartik K
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Alif Makani,9,6,3,1,0,200.0,St Satish S b Sadiq L
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Nikhil Rajawat,10,6,8,0,0,75.0,c Ajay D b Rayed M
+224,3837,1,FAZLANI UNITED (ISDT 8.0),Anees Adenwala,11,4,3,0,0,133.33,not out
+224,3837,2,JBCN AVENGERS (ISDT 8.0),Deepan Mankad,1,0,1,0,0,0.0,b Anees A
+224,3837,2,JBCN AVENGERS (ISDT 8.0),Ribhu Dasgupta,2,25,29,1,1,86.21,c Mahesh P b Alif M
+224,3837,2,JBCN AVENGERS (ISDT 8.0),Vaseem Lashkaria,3,51,43,5,0,118.6,not out
+224,3837,2,JBCN AVENGERS (ISDT 8.0),Ashish Lala,4,7,3,0,1,233.33,c&b Shams .
+224,3837,2,JBCN AVENGERS (ISDT 8.0),Ajay Dsilva,5,14,8,1,1,175.0,not out
+224,3838,1,UTPAL WARRIORS (ISDT 8.0),Siddharth Kadam,1,22,14,3,0,157.14,c Ravi M b Gaurav M
+224,3838,1,UTPAL WARRIORS (ISDT 8.0),Vishal Shah,2,21,15,4,0,140.0,b Amit P
+224,3838,1,UTPAL WARRIORS (ISDT 8.0),Pavan Shah,3,14,13,2,0,107.69,run out ( Paras Z )
+224,3838,1,UTPAL WARRIORS (ISDT 8.0),Asgar Khan,4,78,42,6,5,185.71,St Naresh N b Krupesh V
+224,3838,1,UTPAL WARRIORS (ISDT 8.0),Pratik Desai,5,45,27,3,2,166.67,not out
+224,3838,1,UTPAL WARRIORS (ISDT 8.0),Shailesh Maniya,6,0,3,0,0,0.0,b Krupesh V
+224,3838,1,UTPAL WARRIORS (ISDT 8.0),Kalpesh Mehta,7,9,6,1,0,150.0,run out ( Naresh N )
+224,3838,1,UTPAL WARRIORS (ISDT 8.0),Sadanand Poojary,8,0,0,0,0,0.0,not out
+224,3838,2,AB WARRIORS (ISDT 8.0),Saumik Gandhi,1,11,8,2,0,137.5,c Pavan S b Pratik D
+224,3838,2,AB WARRIORS (ISDT 8.0),Vishal Shah,2,15,11,2,1,136.36,b Siddharth K
+224,3838,2,AB WARRIORS (ISDT 8.0),Gaurav Mehta,3,81,50,5,4,162.0,c Kalpesh M b Pratik D
+224,3838,2,AB WARRIORS (ISDT 8.0),Manish Jain,4,50,41,3,0,121.95,run out ( Asgar K )
+224,3838,2,AB WARRIORS (ISDT 8.0),Paras Zaveri,5,9,8,1,0,112.5,not out
+224,3838,2,AB WARRIORS (ISDT 8.0),Aditya Rajadhyaksha,6,2,2,0,0,100.0,run out ( Kalpesh M )
+224,3838,2,AB WARRIORS (ISDT 8.0),Amit Photographer,7,1,1,0,0,100.0,not out
+224,3839,1,PODAR PHANTOMS (ISDT 8.0),Pooran Kshatriya,1,25,24,4,0,104.17,lbw b Kashif S
+224,3839,1,PODAR PHANTOMS (ISDT 8.0),Rohit Kulkarni,2,4,4,1,0,100.0,run out ( Rohan V )
+224,3839,1,PODAR PHANTOMS (ISDT 8.0),Jayan Shah,3,31,47,2,0,65.96,b Harshraj A
+224,3839,1,PODAR PHANTOMS (ISDT 8.0),Jay Samant,4,3,5,0,0,60.0,c † Naved S b Kashif S
+224,3839,1,PODAR PHANTOMS (ISDT 8.0),Viren Shah,5,15,21,2,0,71.43,lbw b Kashif S
+224,3839,1,PODAR PHANTOMS (ISDT 8.0),Raviraj Shetty,6,8,15,0,0,53.33,not out
+224,3839,1,PODAR PHANTOMS (ISDT 8.0),Jay Bharadwaj,7,6,4,0,0,150.0,not out
+224,3839,2,PETIT PANTHERS (ISDT 8.0),Sarfaraz Jumani,1,0,1,0,0,0.0,c † Rushin M b Raviraj S
+224,3839,2,PETIT PANTHERS (ISDT 8.0),Fardeen Malbarwala,2,0,2,0,0,0.0,lbw b Raviraj S
+224,3839,2,PETIT PANTHERS (ISDT 8.0),Sachin Deshpande,3,32,24,5,0,133.33,c Raviraj S b Jayan S
+224,3839,2,PETIT PANTHERS (ISDT 8.0),Rabinder Singh,4,0,1,0,0,0.0,lbw b Raviraj S
+224,3839,2,PETIT PANTHERS (ISDT 8.0),Sachin Jadhavar,5,40,28,6,0,142.86,c † b Paresh S
+224,3839,2,PETIT PANTHERS (ISDT 8.0),Hadi Mukadam,6,5,5,1,0,100.0,b Jayan S
+224,3839,2,PETIT PANTHERS (ISDT 8.0),Munawar Mansuri,7,21,16,4,0,131.25,not out
+224,3839,2,PETIT PANTHERS (ISDT 8.0),Eric Bacha,8,5,13,1,0,38.46,not out
+224,3840,1,JB SUPER DADS (ISDT 8.0),Behzaad Devadhvala,1,3,9,0,0,33.33,c Nitin K b Brijesh A
+224,3840,1,JB SUPER DADS (ISDT 8.0),Punit Satiya,2,42,51,3,1,82.35,b Munish T
+224,3840,1,JB SUPER DADS (ISDT 8.0),Shahen Mistry,3,93,46,7,7,202.17,St Akshay C b Saumil G
+224,3840,1,JB SUPER DADS (ISDT 8.0),Ankur Jhaveri,4,26,14,3,1,185.71,not out
+224,3840,2,JBCN UNITED (ISDT 8.0),Ashish Kamdar,1,38,37,3,0,102.7,St Behzaad D b Parag M
+224,3840,2,JBCN UNITED (ISDT 8.0),Pranav P. Sanghvi,2,0,1,0,0,0.0,b Gaurav D
+224,3840,2,JBCN UNITED (ISDT 8.0),Akshay Chadha,3,33,30,3,1,110.0,St Behzaad D b Bhairav S
+224,3840,2,JBCN UNITED (ISDT 8.0),Anshuman Agarwalla,4,1,3,0,0,33.33,run out ( Parag M )
+224,3840,2,JBCN UNITED (ISDT 8.0),Jaineel Aga,5,30,18,5,0,166.67,c Gaurav D b Parag M
+224,3840,2,JBCN UNITED (ISDT 8.0),Nitin Kukreja,6,21,17,2,0,123.53,c Harshal S b Punit S
+224,3840,2,JBCN UNITED (ISDT 8.0),Bhavik Vasa,7,14,10,1,0,140.0,not out
+224,3840,2,JBCN UNITED (ISDT 8.0),Saumil Gandhi,8,7,4,1,0,175.0,St Behzaad D b Gaurav D
+224,3840,2,JBCN UNITED (ISDT 8.0),Munish Tahiliani,9,1,1,0,0,100.0,not out
+224,3841,1,CAMP RANGERS (ISDT 8.0),Srijith Nalinakshan,1,5,7,1,0,71.43,c Bhairav S b Punit S
+224,3841,1,CAMP RANGERS (ISDT 8.0),Sangram Singh,2,27,19,1,2,142.11,c Shahen M b Bhairav S
+224,3841,1,CAMP RANGERS (ISDT 8.0),Mukund Jalan,3,32,37,3,0,86.49,St Behzaad D b Kalpesh S
+224,3841,1,CAMP RANGERS (ISDT 8.0),Nikhil Kothari,4,58,37,6,2,156.76,not out
+224,3841,1,CAMP RANGERS (ISDT 8.0),Amish Dani,5,1,6,0,0,16.67,c Punit S b Parag M
+224,3841,1,CAMP RANGERS (ISDT 8.0),Anuj Goyal,6,17,14,1,0,121.43,not out
+224,3841,2,JB SUPER DADS (ISDT 8.0),Behzaad Devadhvala,1,34,29,6,0,117.24,b Anuj G
+224,3841,2,JB SUPER DADS (ISDT 8.0),Shahen Mistry,2,1,3,0,0,33.33,c Zubin E b Amish D
+224,3841,2,JB SUPER DADS (ISDT 8.0),Vikram Dani,3,8,4,2,0,200.0,c Amish D b Gautam D
+224,3841,2,JB SUPER DADS (ISDT 8.0),Jatin Vakharia,4,4,10,0,0,40.0,b Gautam D
+224,3841,2,JB SUPER DADS (ISDT 8.0),Harshal Shah,5,36,34,3,0,105.88,run out ( Zubin E )
+224,3841,2,JB SUPER DADS (ISDT 8.0),Ankur Jhaveri,6,12,12,0,0,100.0,c † Srijith N b Anuj G
+224,3841,2,JB SUPER DADS (ISDT 8.0),Punit Satiya,7,5,9,0,0,55.56,c † Srijith N b Satbirsingh N
+224,3841,2,JB SUPER DADS (ISDT 8.0),Abhinav Midha,8,0,2,0,0,0.0,c Zubin E b Anuj G
+224,3841,2,JB SUPER DADS (ISDT 8.0),Kalpesh Sanghvi,9,18,15,2,0,120.0,c Zubin E b Amish D
+224,3841,2,JB SUPER DADS (ISDT 8.0),Parag Mehta,10,4,4,0,0,100.0,not out
+224,3842,1,HSI LIONS (ISDT 8.0),Romil Sundesha,1,0,2,0,0,0.0,b Pratik S
+224,3842,1,HSI LIONS (ISDT 8.0),Abhay Sharma,2,36,17,4,2,211.76,St Harshvardhan R b Dhruv B
+224,3842,1,HSI LIONS (ISDT 8.0),Vishal Kalantri,3,27,18,5,0,150.0,b Pratik S
+224,3842,1,HSI LIONS (ISDT 8.0),Vishal Desai,4,9,10,1,0,90.0,St Harshvardhan R b Anay J
+224,3842,1,HSI LIONS (ISDT 8.0),Vishal Bafna,5,45,33,3,1,136.36,c Anay J b Dhawal S
+224,3842,1,HSI LIONS (ISDT 8.0),Gautam Parolia,6,36,31,5,0,116.13,c Dhawal S b Kartik R
+224,3842,1,HSI LIONS (ISDT 8.0),Ashwin Mehta,7,8,4,0,1,200.0,c Anuj K b Kartik R
+224,3842,1,HSI LIONS (ISDT 8.0),Kunal Dedhia,8,5,4,1,0,125.0,b Dhawal S
+224,3842,1,HSI LIONS (ISDT 8.0),Rajiv Gokani,9,1,2,0,0,50.0,not out
+224,3842,1,HSI LIONS (ISDT 8.0),Mufadal Lokhandwala,10,2,1,0,0,200.0,not out
+224,3842,2,AB DEVILS (ISDT 8.0),Kalpesh Bohra,1,19,13,3,0,146.15,run out ( Kunal J )
+224,3842,2,AB DEVILS (ISDT 8.0),Girish Singhania,2,105,60,12,1,175.0,not out
+224,3842,2,AB DEVILS (ISDT 8.0),Nirav Kothari,3,22,28,2,0,78.57,c Rajiv G b Gautam P
+224,3842,2,AB DEVILS (ISDT 8.0),Dhawal Shah,4,26,13,5,0,200.0,c Kunal D b Gautam P
+224,3842,2,AB DEVILS (ISDT 8.0),Harshvardhan Roongta,5,6,6,0,0,100.0,not out
+224,3843,1,GREENLAWNS GLADIATORS (ISDT 8.0),Chirag Damani,1,2,6,0,0,33.33,b Justin .
+224,3843,1,GREENLAWNS GLADIATORS (ISDT 8.0),Hiral Gandhi,2,73,38,14,0,192.11,c Sharik . b Prerak .
+224,3843,1,GREENLAWNS GLADIATORS (ISDT 8.0),Viral Shah,3,35,26,1,2,134.62,lbw b Prerak .
+224,3843,1,GREENLAWNS GLADIATORS (ISDT 8.0),Hitesh Bhayani,4,23,14,2,1,164.29,c Charles S b Justin .
+224,3843,1,GREENLAWNS GLADIATORS (ISDT 8.0),Jimish Shah,5,60,25,4,4,240.0,c Charles S b Justin .
+224,3843,1,GREENLAWNS GLADIATORS (ISDT 8.0),Kaushal Trivedi,6,2,4,0,0,50.0,St Pinaki . b Shashank .
+224,3843,1,GREENLAWNS GLADIATORS (ISDT 8.0),Jigar Parikh,7,6,5,0,0,120.0,not out
+224,3843,1,GREENLAWNS GLADIATORS (ISDT 8.0),Ronak Jhaveri,8,1,2,0,0,50.0,not out
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Preet .,1,5,4,1,0,125.0,c † Viral S b Kaushal T
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Pinaki .,2,0,1,0,0,0.0,lbw b Sunny J
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Charles Sam,3,31,11,4,2,281.82,lbw b Jimish S
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Nikhil .,4,1,3,0,0,33.33,lbw b Kaushal T
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Sharik .,5,4,4,1,0,100.0,St Viral S b Kaushal T
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Prateek .,6,22,15,3,0,146.67,c † Viral S b Jitu K
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Manthan .,7,10,6,2,0,166.67,c Jigar P b Kaushal T
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Himanshu .,8,57,35,5,2,162.86,b Hitesh B
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Aditya .,9,17,17,0,0,100.0,c Sunny J b Hitesh B
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Prerak .,10,15,11,2,0,136.36,b Hitesh B
+224,3843,2,SCOTTISH STARS (ISDT 8.0),Shashank .,11,1,1,0,0,100.0,not out
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Bhavik Shah,1,35,28,5,0,125.0,St Rishiraj L b Meet S
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Ryan Rodrigues,2,52,31,9,1,167.74,b Meet S
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Shrenik Seth,3,13,11,2,0,118.18,St Rishiraj L b Rajeev A
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Alok Desai,4,3,5,0,0,60.0,lbw b Meet S
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Avneesh Prasad,5,1,1,0,0,100.0,run out ( Vikas L )
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Sahil Shah,6,6,7,0,0,85.71,c Vikas L b Rajeev A
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Milin Jhaveri,7,4,6,0,0,66.67,c Jeetinder D b Rajeev A
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Sufiyaan .,8,16,15,1,0,106.67,b Rajeev A
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Hiren Gandhi,9,2,4,0,0,50.0,b Rajeev A
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Pranay .,10,16,9,2,0,177.78,not out
+224,3845,1,CATHEDRAL KNIGHTS (ISDT 8.0),Abhijat Sanghvi,11,4,3,1,0,133.33,c † Rishiraj L b Jekin S
+224,3845,2,JNS MUSTANGS (ISDT 8.0),Jeetinder Diwan,1,4,4,1,0,100.0,b Jay S
+224,3845,2,JNS MUSTANGS (ISDT 8.0),Karan Jain,2,0,1,0,0,0.0,c † Alok D b Jay S
+224,3845,2,JNS MUSTANGS (ISDT 8.0),Dheeraj Shriyan,3,82,56,8,3,146.43,not out
+224,3845,2,JNS MUSTANGS (ISDT 8.0),Atul Ganeriwal,4,15,13,3,0,115.38,b Jay S
+224,3845,2,JNS MUSTANGS (ISDT 8.0),Vikas Linga,5,9,8,2,0,112.5,c Abhijat S b Sahil S
+224,3845,2,JNS MUSTANGS (ISDT 8.0),Rohit Saraf,6,22,22,2,0,100.0,c Ryan R b Vishal V
+224,3845,2,JNS MUSTANGS (ISDT 8.0),Hemal Chitalia,7,1,2,0,0,50.0,c Hiren G b Vishal V
+224,3845,2,JNS MUSTANGS (ISDT 8.0),Niraj Parab,8,15,9,2,0,166.67,not out
+224,3847,1,OIS TIGERS (ISDT 8.0),Manav Gohil,1,26,31,3,0,83.87,lbw b Vinay M
+224,3847,1,OIS TIGERS (ISDT 8.0),Varun Gambhir,2,5,7,0,0,71.43,c Kamesh S b Ritesh B
+224,3847,1,OIS TIGERS (ISDT 8.0),Abhishek Dutt,3,34,29,4,0,117.24,b Vipin J
+224,3847,1,OIS TIGERS (ISDT 8.0),Sharad Kelkar,4,12,15,0,0,80.0,b Vipin J
+224,3847,1,OIS TIGERS (ISDT 8.0),Arun Madhu,5,15,17,1,0,88.24,not out
+224,3847,1,OIS TIGERS (ISDT 8.0),Punit Gambhir,6,31,21,4,1,147.62,b Ritesh B
+224,3847,1,OIS TIGERS (ISDT 8.0),Ajit Virwani,7,4,1,1,0,400.0,not out
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Vinay Malpani,1,14,11,2,0,127.27,c Sahil S b Nishant S
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Sandip Jajo,2,12,9,2,0,133.33,c Punit G b Abhishek D
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Shreyansh Jain,3,14,8,2,0,175.0,lbw b Abhishek D
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Kamesh Shah,4,1,2,0,0,50.0,c Sharad K b Arun M
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Ronak Mehta,5,5,19,0,0,26.32,lbw b Abhishek D
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Ritesh Bhalani,6,1,2,0,0,50.0,c Sharad K b Arun M
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Yatin Mora,7,40,35,6,0,114.29,not out
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Ankkit Meswani,8,4,10,0,0,40.0,c Sharad K b Manav G
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Ram Verma,9,28,22,2,1,127.27,St Abhishek D b Sahil S
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Alok Modi,10,0,1,0,0,0.0,c Varun G b Sahil S
+224,3847,2,USG GLADDIATORS (ISDT 8.0),Vipin Jain,11,4,1,1,0,400.0,not out
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Huzefa Qaiser,1,33,33,4,1,100.0,run out ( Rajeev K )
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Ribhu Dasgupta,2,26,20,3,1,130.0,lbw b Nimesh F
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Vaseem Lashkaria,3,0,2,0,0,0.0,run out ( Aditya S )
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Satish Sawant,4,25,23,2,0,108.7,Retired Out
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Sadiq Lashkaria,5,19,16,1,0,118.75,Retired Out
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Ajay Dsilva,6,9,9,0,0,100.0,b Dipesh B
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Rayed Merchant,7,22,9,2,1,244.44,not out
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Deepan Mankad,8,3,3,0,0,100.0,run out ( Yazad W / Rajeev K )
+224,3848,1,JBCN AVENGERS (ISDT 8.0),Swapneel Hazare,9,8,5,1,0,160.0,not out
+224,3848,2,TRULY MARIANS (ISDT 8.0),Jinesh Indarmal Kothari,1,21,22,3,0,95.45,c † Satish S b Sadiq L
+224,3848,2,TRULY MARIANS (ISDT 8.0),Vidyut Sodha,2,0,1,0,0,0.0,c † Satish S b Rayed M
+224,3848,2,TRULY MARIANS (ISDT 8.0),Chirag Shah,3,22,26,2,0,84.62,c † Satish S b Huzefa Q
+224,3848,2,TRULY MARIANS (ISDT 8.0),Harshit Ramanlal Darji,4,41,27,4,0,151.85,St b Muddassar V
+224,3848,2,TRULY MARIANS (ISDT 8.0),Aditya S,5,14,13,1,0,107.69,c Rayed M b Muddassar V
+224,3848,2,TRULY MARIANS (ISDT 8.0),Nirav Vora,6,1,2,0,0,50.0,c&b Muddassar V
+224,3848,2,TRULY MARIANS (ISDT 8.0),Rahul Doshi,7,6,9,0,0,66.67,St Satish S b Sadiq L
+224,3848,2,TRULY MARIANS (ISDT 8.0),Dipesh Bafna,8,14,15,1,0,93.33,not out
+224,3848,2,TRULY MARIANS (ISDT 8.0),Nimesh Fatiraj Kanunga,9,0,2,0,0,0.0,b Rayed M
+224,3848,2,TRULY MARIANS (ISDT 8.0),Ambrish P Thaker,10,4,3,0,0,133.33,not out
+224,3853,1,NIS LAKERS (ISDT 8.0),Anirudh S,1,85,54,8,3,157.41,not out
+224,3853,1,NIS LAKERS (ISDT 8.0),Umesh Mehra,2,44,31,4,1,141.94,c Alif M b Shams .
+224,3853,1,NIS LAKERS (ISDT 8.0),Jitendra Singh,3,45,31,6,0,145.16,c † Abdul L b Nikhil R
+224,3853,1,NIS LAKERS (ISDT 8.0),Amol Saxena,4,11,6,1,0,183.33,not out
+224,3853,2,FAZLANI UNITED (ISDT 8.0),Abdul Latif,1,0,4,0,0,0.0,b Vibhu M
+224,3853,2,FAZLANI UNITED (ISDT 8.0),Mitesh Rajawat,2,1,3,0,0,33.33,b Vibhu M
+224,3853,2,FAZLANI UNITED (ISDT 8.0),Imran Kagalwala,3,7,11,1,0,63.64,c Dhiraj S b Rahul B
+224,3853,2,FAZLANI UNITED (ISDT 8.0),Mahesh Patel,4,27,30,2,0,90.0,b Kamaldeep Singh B
+224,3853,2,FAZLANI UNITED (ISDT 8.0),Murtaza .,5,57,50,9,0,114.0,not out
+224,3853,2,FAZLANI UNITED (ISDT 8.0),Alif Makani,6,16,13,1,1,123.08,Retired Hurt
+224,3853,2,FAZLANI UNITED (ISDT 8.0),Shams .,7,12,11,1,0,109.09,not out
+224,3859,1,AVM YODDHAS (ISDT 8.0),Saurabh Sinha,1,59,26,9,2,226.92,c Gautam P b Harsh D
+224,3859,1,AVM YODDHAS (ISDT 8.0),Jayesh Chawla,2,24,27,1,0,88.89,Retired Out
+224,3859,1,AVM YODDHAS (ISDT 8.0),Dattaram Parab †,3,43,25,3,2,172.0,St Ashwin M b Gautam P
+224,3859,1,AVM YODDHAS (ISDT 8.0),Shailesh Gowda,4,51,24,4,3,212.5,Retired Out
+224,3859,1,AVM YODDHAS (ISDT 8.0),Vishal Pandey,5,24,10,4,0,240.0,Retired Out
+224,3859,1,AVM YODDHAS (ISDT 8.0),Nilay Shah,6,6,4,0,0,150.0,not out
+224,3859,1,AVM YODDHAS (ISDT 8.0),Saurabh Mehta,7,20,5,3,1,400.0,not out
+224,3859,2,HSI LIONS (ISDT 8.0),Vishal Kalantri,1,12,7,3,0,171.43,run out ( Saurabh M / Dattaram P )
+224,3859,2,HSI LIONS (ISDT 8.0),Abhay Sharma,2,59,43,8,2,137.21,b Nilay S
+224,3859,2,HSI LIONS (ISDT 8.0),Vicky Oswal,3,0,1,0,0,0.0,c Rahul S b Prathmesh K
+224,3859,2,HSI LIONS (ISDT 8.0),Dhanesh Chheda,4,32,18,4,1,177.78,b Chetan K
+224,3859,2,HSI LIONS (ISDT 8.0),Kunal Dedhia,5,29,26,2,1,111.54,Retired Out
+224,3859,2,HSI LIONS (ISDT 8.0),Gautam Parolia,6,12,9,1,0,133.33,b Rahul S
+224,3859,2,HSI LIONS (ISDT 8.0),Harsh Dhadda,7,5,7,0,0,71.43,not out
+224,3859,2,HSI LIONS (ISDT 8.0),Hemant Kabra,8,21,10,2,1,210.0,not out
+224,3862,1,UTPAL WARRIORS (ISDT 8.0),Siddharth Shah,1,19,12,2,1,158.33,c Hiral G b Sunny J
+224,3862,1,UTPAL WARRIORS (ISDT 8.0),Siddharth Kadam,2,65,47,9,0,138.3,b Jimish S
+224,3862,1,UTPAL WARRIORS (ISDT 8.0),Kalpesh Mehta,3,2,5,0,0,40.0,c Viral S b Hitesh B
+224,3862,1,UTPAL WARRIORS (ISDT 8.0),Pavan Shah,4,24,20,3,0,120.0,c&b Dhimant M
+224,3862,1,UTPAL WARRIORS (ISDT 8.0),Pratik Desai,5,34,24,0,2,141.67,not out
+224,3862,1,UTPAL WARRIORS (ISDT 8.0),Vishal Shah,6,8,7,1,0,114.29,run out ( Samkit S )
+224,3862,1,UTPAL WARRIORS (ISDT 8.0),Gautam Sheth,7,13,5,1,1,260.0,not out
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Chirag Damani,1,0,1,0,0,0.0,b Punit K
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Hiral Gandhi,2,4,3,1,0,133.33,c Gautam S b Punit K
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Viral Shah,3,10,9,1,0,111.11,c Siddharth K b Virat J
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Samkit Shah,4,26,28,5,0,92.86,run out ( Pratik D )
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Hitesh Bhayani,5,15,10,2,1,150.0,b Virat J
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Jigar Parikh,6,15,17,1,0,88.24,run out ( Shailesh M )
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Jimish Shah,7,0,4,0,0,0.0,c&b Gautam S
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Kaushal Trivedi,8,14,10,1,0,140.0,b Pratik D
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Ronak Jhaveri,9,15,16,0,1,93.75,c&b Virat J
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Punit Kothari,10,34,18,5,0,188.89,run out ( Pratik D )
+224,3862,2,GREENLAWNS GLADIATORS (ISDT 8.0),Jitu Kothari,11,0,3,0,0,0.0,not out
+224,3869,1,AB WARRIORS (ISDT 8.0),Vishal Shah,1,8,12,1,0,66.67,lbw b Prateek .
+224,3869,1,AB WARRIORS (ISDT 8.0),Naresh Naik,2,44,41,2,1,107.32,run out ( Paras A )
+224,3869,1,AB WARRIORS (ISDT 8.0),Gaurav Mehta,3,51,34,7,1,150.0,b Prerak .
+224,3869,1,AB WARRIORS (ISDT 8.0),Paras Zaveri,4,12,11,1,0,109.09,run out ( Paras A )
+224,3869,1,AB WARRIORS (ISDT 8.0),Manish Jain,5,20,15,3,0,133.33,not out
+224,3869,1,AB WARRIORS (ISDT 8.0),Aditya Rajadhyaksha,6,8,6,1,0,133.33,c Himanshu . b Prerak .
+224,3869,1,AB WARRIORS (ISDT 8.0),Amit Photographer,7,1,1,0,0,100.0,run out ( Charles S )
+224,3869,1,AB WARRIORS (ISDT 8.0),Shailendra Jhingan,8,0,1,0,0,0.0,run out ( Himanshu . )
+224,3869,2,SCOTTISH STARS (ISDT 8.0),Pinaki .,1,2,3,0,0,66.67,c Ravi M b Amit P
+224,3869,2,SCOTTISH STARS (ISDT 8.0),Preet .,2,75,55,8,0,136.36,not out
+224,3869,2,SCOTTISH STARS (ISDT 8.0),Paras Agarwal,3,18,22,2,0,81.82,c Gaurav M b Anish S
+224,3869,2,SCOTTISH STARS (ISDT 8.0),Himanshu .,4,1,3,0,0,33.33,c Shailendra J b Manish J
+224,3869,2,SCOTTISH STARS (ISDT 8.0),Prateek .,5,4,7,0,0,57.14,b Anish S
+224,3869,2,SCOTTISH STARS (ISDT 8.0),Karan Jajoo,6,11,12,1,0,91.67,run out ( Vishal S )
+224,3869,2,SCOTTISH STARS (ISDT 8.0),Charles Sam,7,4,3,1,0,133.33,c Paras Z b Ravi M
+224,3869,2,SCOTTISH STARS (ISDT 8.0),Nikhil .,8,14,7,0,1,200.0,not out
+224,3870,1,MRV RISERS (ISDT 8.0),Raj Soni,1,35,21,4,1,166.67,c † Kinjan V b Anuj S
+224,3870,1,MRV RISERS (ISDT 8.0),Chinmay Dalvi,2,25,34,3,0,73.53,c Ankur A b Karan D
+224,3870,1,MRV RISERS (ISDT 8.0),Rohan Patel,3,23,16,2,1,143.75,c Karan D b Kawal A
+224,3870,1,MRV RISERS (ISDT 8.0),Viral Gala,4,44,27,2,2,162.96,c † Viral S b Kawal A
+224,3870,1,MRV RISERS (ISDT 8.0),Pramod Chandan,5,15,13,2,0,115.38,c † Viral S b Dushyant J
+224,3870,1,MRV RISERS (ISDT 8.0),Dhruven Jain,6,9,8,1,0,112.5,b Dushyant J
+224,3870,1,MRV RISERS (ISDT 8.0),Jinesh Shah,7,0,0,0,0,0.0,not out
+224,3870,1,MRV RISERS (ISDT 8.0),Sarfaraz Momin,8,2,1,0,0,200.0,not out
+224,3870,2,JBCN STARS (ISDT 8.0),Ankur Aggarwal,1,13,7,1,1,185.71,St Raj S b Ritesh P
+224,3870,2,JBCN STARS (ISDT 8.0),Viral Somaiya,2,61,44,5,2,138.64,not out
+224,3870,2,JBCN STARS (ISDT 8.0),Bhavik Dharia,3,39,33,5,0,118.18,c&b Dhruven J
+224,3870,2,JBCN STARS (ISDT 8.0),Dushyant Jain,4,49,26,4,1,188.46,not out
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Jayan Shah,1,10,10,1,0,100.0,c Shrenik S b Jay S
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Tenzing Niyogi,2,17,12,4,0,141.67,c Bhavik S b Jay S
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Pooran Kshatriya,3,25,27,3,0,92.59,St Ryan R b Pranay .
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Rushin Modi,4,31,18,2,3,172.22,lbw b Vishal V
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Jay Samant,5,2,3,0,0,66.67,c Sahil S b Vishal V
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Amit Bhawsinghka,6,14,20,0,0,70.0,run out ( Sahil S )
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Raviraj Shetty,7,36,22,1,4,163.64,c Pranay . b Sahil S
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Dishant Raghani,8,15,6,1,1,250.0,not out
+224,3872,1,PODAR PHANTOMS (ISDT 8.0),Viren Shah,9,2,2,0,0,100.0,not out
+224,3872,2,CATHEDRAL KNIGHTS (ISDT 8.0),Bhavik Shah,1,0,3,0,0,0.0,b Raviraj S
+224,3872,2,CATHEDRAL KNIGHTS (ISDT 8.0),Ryan Rodrigues,2,44,29,6,1,151.72,lbw b Paresh S
+224,3872,2,CATHEDRAL KNIGHTS (ISDT 8.0),Shrenik Seth,3,24,30,1,0,80.0,c † Dishant R b Jayan S
+224,3872,2,CATHEDRAL KNIGHTS (ISDT 8.0),Milin Jhaveri,4,12,22,1,0,54.55,St Dishant R b Rahul P
+224,3872,2,CATHEDRAL KNIGHTS (ISDT 8.0),Sahil Shah,5,1,2,0,0,50.0,run out ( Jayan S )
+224,3872,2,CATHEDRAL KNIGHTS (ISDT 8.0),Vishal Vora,6,41,24,5,1,170.83,not out
+224,3872,2,CATHEDRAL KNIGHTS (ISDT 8.0),Pranay .,7,17,10,2,0,170.0,not out
+224,3873,1,AVM YODDHAS (ISDT 8.0),Chetan Kapoor,1,11,20,0,0,55.0,c Prasad A b Arvind S
+224,3873,1,AVM YODDHAS (ISDT 8.0),Vishal Miglani,2,6,10,1,0,60.0,run out ( Gurunath G )
+224,3873,1,AVM YODDHAS (ISDT 8.0),Saurabh Sinha,3,10,7,2,0,142.86,b Gurunath G
+224,3873,1,AVM YODDHAS (ISDT 8.0),Rishi Mapara,4,35,30,5,0,116.67,c Vipin R b Kiran P
+224,3873,1,AVM YODDHAS (ISDT 8.0),Dattaram Parab †,5,0,1,0,0,0.0,c † Vikrant P b Arvind S
+224,3873,1,AVM YODDHAS (ISDT 8.0),Sivanandan Konar,6,16,13,2,0,123.08,c Prasad A b Arvind S
+224,3873,1,AVM YODDHAS (ISDT 8.0),Vishal Pandey,7,5,10,0,0,50.0,St Vikrant P b Ravish C
+224,3873,1,AVM YODDHAS (ISDT 8.0),Shailesh Gowda,8,4,6,0,0,66.67,lbw b Kiran P
+224,3873,1,AVM YODDHAS (ISDT 8.0),Saurabh Mehta,9,6,6,1,0,100.0,c Prasad A b Ravish C
+224,3873,1,AVM YODDHAS (ISDT 8.0),Nilay Shah,10,14,7,1,1,200.0,not out
+224,3873,1,AVM YODDHAS (ISDT 8.0),Amit Manubarwala,11,9,10,0,0,90.0,not out
+224,3873,2,GE ROARING TIGERS (ISDT 8.0),Mayur Rathod,1,16,12,3,0,133.33,b Rishi M
+224,3873,2,GE ROARING TIGERS (ISDT 8.0),Pranav Soparkar,2,15,15,3,0,100.0,c Nilay S b Rishi M
+224,3873,2,GE ROARING TIGERS (ISDT 8.0),Santosh Jadhav,3,48,44,5,2,109.09,not out
+224,3873,2,GE ROARING TIGERS (ISDT 8.0),Vipin Rai,4,11,13,2,0,84.62,lbw b Sivanandan K
+224,3873,2,GE ROARING TIGERS (ISDT 8.0),Kedar Kango,5,26,25,3,0,104.0,not out
+224,3874,1,JBCN STARS (ISDT 8.0),Pranay Nigotiya,1,1,3,0,0,33.33,c † Manoje B b Shamin K
+224,3874,1,JBCN STARS (ISDT 8.0),Karan Sharma,2,9,7,1,0,128.57,run out ( Vishal M )
+224,3874,1,JBCN STARS (ISDT 8.0),Bhavik Dharia,3,31,28,2,0,110.71,lbw b Don S
+224,3874,1,JBCN STARS (ISDT 8.0),Viral Somaiya,4,36,24,4,2,150.0,c Sahil P b Ashank S
+224,3874,1,JBCN STARS (ISDT 8.0),Ankur Aggarwal,5,31,25,4,0,124.0,b Shamin K
+224,3874,1,JBCN STARS (ISDT 8.0),Kaushal Goenka,6,11,14,1,0,78.57,b Don S
+224,3874,1,JBCN STARS (ISDT 8.0),Kawal Arora,7,20,15,2,1,133.33,run out ( Manoje B )
+224,3874,1,JBCN STARS (ISDT 8.0),Akshesh Trivedi,8,0,1,0,0,0.0,run out ( Manoje B )
+224,3874,1,JBCN STARS (ISDT 8.0),Kinjan Vasant,9,3,3,0,0,100.0,run out ( Manoje B )
+224,3874,1,JBCN STARS (ISDT 8.0),Rahul Chaudhary,10,0,1,0,0,0.0,not out
+224,3874,2,JNS TOROS (ISDT 8.0),Rakesh Wadhwani,1,22,13,4,0,169.23,b Akshesh T
+224,3874,2,JNS TOROS (ISDT 8.0),Samar Kagalwalla,2,28,20,3,1,140.0,c Karan D b Kawal A
+224,3874,2,JNS TOROS (ISDT 8.0),Vishal Majmudar,3,5,4,1,0,125.0,c † Kinjan V b Karan S
+224,3874,2,JNS TOROS (ISDT 8.0),Manoje Biddvai,4,34,32,5,0,106.25,c Karan S b Karan D
+224,3874,2,JNS TOROS (ISDT 8.0),Divi Sisodia,5,26,30,2,0,86.67,not out
+224,3874,2,JNS TOROS (ISDT 8.0),Sahil Parikh,6,19,13,2,1,146.15,not out
+224,3875,1,BD ROYALS (ISDT 8.0),Suchit Shah,1,22,21,4,0,104.76,c † Amit M b Nishant P
+224,3875,1,BD ROYALS (ISDT 8.0),Vinay Jain,2,26,17,1,2,152.94,c Mihir B b Mahesh B
+224,3875,1,BD ROYALS (ISDT 8.0),Kumar Adnani,3,9,12,1,0,75.0,b Vinesh .
+224,3875,1,BD ROYALS (ISDT 8.0),Himanshu Ranka,4,55,41,6,1,134.15,c Balakrishna S b Vinesh .
+224,3875,1,BD ROYALS (ISDT 8.0),Ankit Shah,5,1,4,0,0,25.0,b Akshay B
+224,3875,1,BD ROYALS (ISDT 8.0),Jay Desai .,6,18,19,0,1,94.74,b Akshay B
+224,3875,1,BD ROYALS (ISDT 8.0),Kairav Parikh,7,3,3,0,0,100.0,not out
+224,3875,1,BD ROYALS (ISDT 8.0),Amit Minde,8,7,3,1,0,233.33,not out
+224,3875,2,AVM ARYANS (ISDT 8.0),Mihir Bapat,1,9,11,1,0,81.82,c Amit M b Suchit S
+224,3875,2,AVM ARYANS (ISDT 8.0),Hitesh Ratanpal,2,37,34,5,0,108.82,c Vinay J b Suchit S
+224,3875,2,AVM ARYANS (ISDT 8.0),Balakrishna Shirke,3,65,34,11,1,191.18,not out
+224,3875,2,AVM ARYANS (ISDT 8.0),Vinay Date,4,20,8,4,0,250.0,not out
+224,3877,1,AVM YODDHAS (ISDT 8.0),Chetan Kapoor,1,47,37,5,1,127.03,c Girish S b Dhaval S
+224,3877,1,AVM YODDHAS (ISDT 8.0),Nilay Shah,2,36,25,5,0,144.0,c Kartik R b Dhruv B
+224,3877,1,AVM YODDHAS (ISDT 8.0),Amit Manubarwala,3,52,34,8,0,152.94,Retired Out
+224,3877,1,AVM YODDHAS (ISDT 8.0),Vishal Pandey,4,41,24,1,3,170.83,not out
+224,3877,1,AVM YODDHAS (ISDT 8.0),Rishi Mapara,5,0,1,0,0,0.0,not out
+224,3877,2,AB DEVILS (ISDT 8.0),Mihir Varma,1,0,1,0,0,0.0,c Saurabh M b Kaustubh G
+224,3877,2,AB DEVILS (ISDT 8.0),Girish Singhania,2,21,19,3,0,110.53,c † Dattaram P b Chetan K
+224,3877,2,AB DEVILS (ISDT 8.0),Nirav Kothari,3,8,8,1,0,100.0,c Saurabh M b Kaustubh G
+224,3877,2,AB DEVILS (ISDT 8.0),Rahul Arora,4,0,3,0,0,0.0,c Saurabh M b Prathmesh K
+224,3877,2,AB DEVILS (ISDT 8.0),Abhishek Joshi,5,5,11,0,0,45.45,c Rishi M b Jayesh C
+224,3877,2,AB DEVILS (ISDT 8.0),Dhawal Shah,6,10,14,2,0,71.43,c Shailesh G b Jayesh C
+224,3877,2,AB DEVILS (ISDT 8.0),Kalpesh Bohra,7,11,9,2,0,122.22,lbw b Sivanandan K
+224,3877,2,AB DEVILS (ISDT 8.0),Kartik Rajendra,8,10,17,1,0,58.82,St Dattaram P b Shailesh G
+224,3877,2,AB DEVILS (ISDT 8.0),Brijesh Ved,9,10,16,0,0,62.5,St Dattaram P b Nilay S
+224,3877,2,AB DEVILS (ISDT 8.0),Anay Jhaveri,10,10,16,0,0,62.5,c Sivanandan K b Jayesh C
+224,3877,2,AB DEVILS (ISDT 8.0),Pratik Shah,11,1,3,0,0,33.33,not out
+224,3885,1,TRULY MARIANS (ISDT 8.0),Anzer Chougule,1,16,16,2,0,100.0,c Mitesh R b Nikhil R
+224,3885,1,TRULY MARIANS (ISDT 8.0),Atiq Khanda,2,0,1,0,0,0.0,c Samad M b Nikhil R
+224,3885,1,TRULY MARIANS (ISDT 8.0),Harshit Ramanlal Darji,3,26,25,2,0,104.0,run out ( Samad M )
+224,3885,1,TRULY MARIANS (ISDT 8.0),Chirag Shah,4,74,51,9,0,145.1,not out
+224,3885,1,TRULY MARIANS (ISDT 8.0),Vidyut Sodha,5,4,2,1,0,200.0,c Yusuf P b Alif M
+224,3885,1,TRULY MARIANS (ISDT 8.0),Aditya S,6,16,11,2,0,145.45,b Alif M
+224,3885,1,TRULY MARIANS (ISDT 8.0),Jinesh Indarmal Kothari,7,3,9,0,0,33.33,b Nikhil R
+224,3885,1,TRULY MARIANS (ISDT 8.0),Rahul Doshi,8,8,5,0,1,160.0,not out
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Abdul Latif,1,17,23,2,0,73.91,lbw b Rahul D
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Nikhil Rajawat,2,0,1,0,0,0.0,c&b Harshit R
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Murtaza .,3,8,13,1,0,61.54,lbw b Harshit R
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Samad Motorwala,4,32,22,1,3,145.45,b Vipul .
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Alif Makani,5,5,9,1,0,55.56,Retired Hurt
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Yusuf Patel,6,2,6,0,0,33.33,c&b Vipul .
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Mahesh Patel,7,13,15,0,1,86.67,b Jinesh I
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Shams .,8,16,16,0,0,100.0,not out
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Vishal Jain,9,4,9,0,0,44.44,b Jinesh I
+224,3885,2,FAZLANI UNITED (ISDT 8.0),Mitesh Rajawat,10,10,7,1,0,142.86,not out
+224,3893,1,JNS TOROS (ISDT 8.0),Vishal Majmudar,1,9,12,1,0,75.0,run out ( Himanshu W / Ojas M )
+224,3893,1,JNS TOROS (ISDT 8.0),Rakesh Wadhwani,2,20,15,4,0,133.33,b Isaac N
+224,3893,1,JNS TOROS (ISDT 8.0),Vikas Arora,3,22,24,1,2,91.67,c Pavan P b Vinod G
+224,3893,1,JNS TOROS (ISDT 8.0),Divi Sisodia,4,10,18,0,0,55.56,b Sunil P
+224,3893,1,JNS TOROS (ISDT 8.0),Manoje Biddvai,5,7,8,0,0,87.5,c&b Himanshu W
+224,3893,1,JNS TOROS (ISDT 8.0),Jimmy Shah,6,10,15,0,0,66.67,c † Ojas M b Vinod G
+224,3893,1,JNS TOROS (ISDT 8.0),Sahil Parikh,7,22,18,1,2,122.22,not out
+224,3893,1,JNS TOROS (ISDT 8.0),Keyur M Shah,8,11,10,1,0,110.0,not out
+224,3893,2,SCOTTISH STRIKING STARS (ISDT 8.0),Karan Chugh,1,41,25,6,1,164.0,c Vikas A b Keyur M S
+224,3893,2,SCOTTISH STRIKING STARS (ISDT 8.0),Himanshu Waingankar,2,51,45,8,0,113.33,c Nishit G b Divi S
+224,3893,2,SCOTTISH STRIKING STARS (ISDT 8.0),Jeetendra Mulchandani,3,15,32,1,0,46.88,not out
+224,3893,2,SCOTTISH STRIKING STARS (ISDT 8.0),Humaid Shaikh,4,5,2,1,0,250.0,not out
+224,3895,1,OIS BLASTERS (ISDT 8.0),Prem Ramchandani,1,3,6,0,0,50.0,c&b Vinesh .
+224,3895,1,OIS BLASTERS (ISDT 8.0),Anshul Lodha,2,3,5,0,0,60.0,c † Vinay D b Akshay B
+224,3895,1,OIS BLASTERS (ISDT 8.0),Sourabh Shah,3,4,10,0,0,40.0,c Mihir B b Mahesh B
+224,3895,1,OIS BLASTERS (ISDT 8.0),Kunal .,4,2,6,0,0,33.33,c Kedar K b Vinesh .
+224,3895,1,OIS BLASTERS (ISDT 8.0),Vinit Agarwal,5,6,3,1,0,200.0,b Vinesh .
+224,3895,1,OIS BLASTERS (ISDT 8.0),Happy Bindra,6,43,49,4,0,87.76,St Vinay D b Maninadra S
+224,3895,1,OIS BLASTERS (ISDT 8.0),Amanpreet Singh,7,1,3,0,0,33.33,run out ( Mahesh B )
+224,3895,1,OIS BLASTERS (ISDT 8.0),Amitraj Bachher,8,4,10,0,0,40.0,b Kedar K
+224,3895,1,OIS BLASTERS (ISDT 8.0),Jay Parikh,9,14,23,0,0,60.87,not out
+224,3895,1,OIS BLASTERS (ISDT 8.0),Arjun Ahuja,10,0,5,0,0,0.0,run out ( Nishant P )
+224,3895,2,AVM ARYANS (ISDT 8.0),Mihir Bapat,1,29,25,4,0,116.0,not out
+224,3895,2,AVM ARYANS (ISDT 8.0),Tushar Shinde,2,45,34,2,2,132.35,not out
+224,3900,1,DAIS ACES (ISDT 8.0),Vinit Sheth,1,47,40,4,3,117.5,c † Srijith N b Karan D
+224,3900,1,DAIS ACES (ISDT 8.0),Kumar Singhee,2,9,9,1,0,100.0,b Anuj G
+224,3900,1,DAIS ACES (ISDT 8.0),Siddhart Gopalkrishnan,3,0,1,0,0,0.0,b Rahul P
+224,3900,1,DAIS ACES (ISDT 8.0),Manoj Kikani,4,13,20,1,0,65.0,lbw b Gautam D
+224,3900,1,DAIS ACES (ISDT 8.0),Harsh Shah,5,5,5,0,0,100.0,c&b Gautam D
+224,3900,1,DAIS ACES (ISDT 8.0),Divya Mehta,6,13,12,1,0,108.33,c Amish D b Satbirsingh N
+224,3900,1,DAIS ACES (ISDT 8.0),Bhoumick Vaidya,7,24,25,1,0,96.0,not out
+224,3900,1,DAIS ACES (ISDT 8.0),Nirav Dalal,8,7,9,0,0,77.78,not out
+224,3900,2,CAMP RANGERS (ISDT 8.0),Srijith Nalinakshan,1,68,59,3,1,115.25,not out
+224,3900,2,CAMP RANGERS (ISDT 8.0),Amish Dani,2,10,11,1,0,90.91,run out ( Krshna B )
+224,3900,2,CAMP RANGERS (ISDT 8.0),Nikhil Kothari,3,20,20,1,0,100.0,c Harsh S b Bhoumick V
+224,3900,2,CAMP RANGERS (ISDT 8.0),Mukund Jalan,4,28,17,5,0,164.71,not out
+224,3905,1,AB DEVILS (ISDT 8.0),Kalpesh Bohra,1,4,11,0,0,36.36,c † Alok D b Abhijat S
+224,3905,1,AB DEVILS (ISDT 8.0),Girish Singhania,2,59,53,7,0,111.32,c † Alok D b Pranay .
+224,3905,1,AB DEVILS (ISDT 8.0),Karan Jhaveri,3,0,2,0,0,0.0,run out ( Pranay . )
+224,3905,1,AB DEVILS (ISDT 8.0),Harshvardhan Roongta,4,9,11,1,0,81.82,run out ( Vishal V )
+224,3905,1,AB DEVILS (ISDT 8.0),Dhawal Shah,5,27,18,3,1,150.0,b Ryan R
+224,3905,1,AB DEVILS (ISDT 8.0),Rahul Arora,6,2,4,0,0,50.0,St Alok D b Pranay .
+224,3905,1,AB DEVILS (ISDT 8.0),Abhishek Joshi,7,2,4,0,0,50.0,lbw b Pranay .
+224,3905,1,AB DEVILS (ISDT 8.0),Aditya Rajani,8,3,7,0,0,42.86,c Bhavik S b Ryan R
+224,3905,1,AB DEVILS (ISDT 8.0),Brijesh Ved,9,3,4,0,0,75.0,run out ( Sahil S )
+224,3905,1,AB DEVILS (ISDT 8.0),Anay Jhaveri,10,9,6,1,0,150.0,not out
+224,3905,2,CATHEDRAL KNIGHTS (ISDT 8.0),Bhavik Shah,1,29,24,3,1,120.83,b Brijesh V
+224,3905,2,CATHEDRAL KNIGHTS (ISDT 8.0),Ryan Rodrigues,2,30,18,4,1,166.67,c † Harshvardhan R b Brijesh V
+224,3905,2,CATHEDRAL KNIGHTS (ISDT 8.0),Shrenik Seth,3,35,25,2,1,140.0,not out
+224,3905,2,CATHEDRAL KNIGHTS (ISDT 8.0),Alok Desai,4,31,22,4,1,140.91,not out
+224,3906,1,HSI LIONS (ISDT 8.0),Shainil Shah,1,10,6,2,0,166.67,c Mayur . b Justin .
+224,3906,1,HSI LIONS (ISDT 8.0),Abhay Sharma,2,10,6,2,0,166.67,c Manthan . b Justin .
+224,3906,1,HSI LIONS (ISDT 8.0),Vishal Desai,3,7,12,0,0,58.33,b Prateek .
+224,3906,1,HSI LIONS (ISDT 8.0),Mufadal Lokhandwala,4,47,34,6,0,138.24,St Pinaki . b Fahad J
+224,3906,1,HSI LIONS (ISDT 8.0),Gautam Parolia,5,29,27,1,1,107.41,St Pinaki . b Prateek .
+224,3906,1,HSI LIONS (ISDT 8.0),Dhanesh Chheda,6,33,21,4,0,157.14,not out
+224,3906,1,HSI LIONS (ISDT 8.0),Vishal Bafna,7,3,3,0,0,100.0,b Shashank .
+224,3906,1,HSI LIONS (ISDT 8.0),Salil Mahajan,8,10,7,1,0,142.86,c Mayur . b Shashank .
+224,3906,1,HSI LIONS (ISDT 8.0),Ashwin Mehta,9,2,4,0,0,50.0,run out ( Charles S )
+224,3906,2,SCOTTISH STARS (ISDT 8.0),Mayur .,1,73,40,9,3,182.5,c Shainil S b Harsh D
+224,3906,2,SCOTTISH STARS (ISDT 8.0),Preet .,2,25,18,4,0,138.89,run out ( Vishal B )
+224,3906,2,SCOTTISH STARS (ISDT 8.0),Charles Sam,3,22,17,1,0,129.41,b Gautam P
+224,3906,2,SCOTTISH STARS (ISDT 8.0),Aditya .,4,21,19,2,0,110.53,not out
+224,3906,2,SCOTTISH STARS (ISDT 8.0),Himanshu .,5,12,9,1,0,133.33,not out
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Viral Shah,1,4,4,1,0,100.0,c Ajit V b Nishant S
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Hiral Gandhi,2,30,21,6,0,142.86,c Vicky S b Nishant S
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Vikas .,3,7,10,0,0,70.0,c † Navin R b Nimit P
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Ronak Jhaveri,4,43,32,1,2,134.38,St Vicky S b Sahil S
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Hitesh Bhayani,5,42,22,6,1,190.91,run out ( Sharad K )
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Viral Patel,6,1,2,0,0,50.0,lbw b Vikram P
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Jigar Parikh,7,21,15,3,0,140.0,b Nimit P
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Samkit Shah,8,23,13,1,2,176.92,not out
+224,3907,1,GREENLAWNS GLADIATORS (ISDT 8.0),Punit Kothari,9,1,1,0,0,100.0,not out
+224,3907,2,OIS TIGERS (ISDT 8.0),Abhishek Dutt,1,10,9,2,0,111.11,c Ronak J b Sunny J
+224,3907,2,OIS TIGERS (ISDT 8.0),Vicky Sujan,2,23,12,2,2,191.67,c Vikas . b Sunny J
+224,3907,2,OIS TIGERS (ISDT 8.0),Vikram Panjwani,3,29,29,2,2,100.0,c Jigar P b Hitesh B
+224,3907,2,OIS TIGERS (ISDT 8.0),Sharad Kelkar,4,84,44,6,6,190.91,not out
+224,3907,2,OIS TIGERS (ISDT 8.0),Arun Madhu,5,20,17,3,0,117.65,c&b Jigar P
+224,3907,2,OIS TIGERS (ISDT 8.0),Punit Gambhir,6,10,4,2,0,250.0,not out
+224,3910,1,JBCN STARS (ISDT 8.0),Ankit Balaria,1,2,3,0,0,66.67,lbw b Amit P
+224,3910,1,JBCN STARS (ISDT 8.0),Viral Somaiya,2,22,25,2,0,88.0,run out ( Nipun K )
+224,3910,1,JBCN STARS (ISDT 8.0),Karan Sharma,3,20,20,3,0,100.0,c Ravi M b Gaurav M
+224,3910,1,JBCN STARS (ISDT 8.0),Dushyant Jain,4,1,2,0,0,50.0,b Anish S
+224,3910,1,JBCN STARS (ISDT 8.0),Kaushal Goenka,5,2,4,0,0,50.0,c&b Manish J
+224,3910,1,JBCN STARS (ISDT 8.0),Ankur Aggarwal,6,0,4,0,0,0.0,b Ravi M
+224,3910,1,JBCN STARS (ISDT 8.0),Kawal Arora,7,11,11,0,0,100.0,c&b Krupesh V
+224,3910,1,JBCN STARS (ISDT 8.0),Shagun Shah,8,3,14,0,0,21.43,c † Naresh N b Manish J
+224,3910,1,JBCN STARS (ISDT 8.0),Akshesh Trivedi,9,4,7,0,0,57.14,c Paras Z b Anish S
+224,3910,1,JBCN STARS (ISDT 8.0),Kunal Mehta,10,18,16,2,0,112.5,St Naresh N b Krupesh V
+224,3910,1,JBCN STARS (ISDT 8.0),Anuj Sadh,11,9,10,0,0,90.0,not out
+224,3910,2,AB WARRIORS (ISDT 8.0),Saumik Gandhi,1,27,37,4,0,72.97,Obstructing The Field
+224,3910,2,AB WARRIORS (ISDT 8.0),Vishal Shah,2,60,45,10,1,133.33,not out
+224,3910,2,AB WARRIORS (ISDT 8.0),Nipun Kothari,3,9,8,1,0,112.5,not out
+224,3921,1,CAMP RANGERS (ISDT 8.0),Amish Dani,1,5,8,0,0,62.5,c Anand J b Samar K
+224,3921,1,CAMP RANGERS (ISDT 8.0),Sangram Singh,2,4,2,1,0,200.0,c Divi S b Samar K
+224,3921,1,CAMP RANGERS (ISDT 8.0),Nikhil Kothari,3,18,23,1,0,78.26,b Ashank S
+224,3921,1,CAMP RANGERS (ISDT 8.0),Mukund Jalan,4,9,7,2,0,128.57,c Sahil P b Samar K
+224,3921,1,CAMP RANGERS (ISDT 8.0),Rahul Pandey,5,51,39,5,0,130.77,not out
+224,3921,1,CAMP RANGERS (ISDT 8.0),Anuj Goyal,6,14,7,0,2,200.0,b Rakesh W
+224,3921,1,CAMP RANGERS (ISDT 8.0),Palak Savla,7,19,17,2,0,111.76,c Samar K b Don S
+224,3921,1,CAMP RANGERS (ISDT 8.0),Zubin Engineer,8,8,9,1,0,88.89,c Sahil P b Don S
+224,3921,1,CAMP RANGERS (ISDT 8.0),Dixit Dani,9,5,4,1,0,125.0,c Vishal M b Divi S
+224,3921,1,CAMP RANGERS (ISDT 8.0),Karan Doshi,10,5,4,0,0,125.0,run out ( Rakesh W / Divi S )
+224,3921,2,JNS TOROS (ISDT 8.0),Rakesh Wadhwani,1,53,49,4,1,108.16,c Palak S b Satbirsingh N
+224,3921,2,JNS TOROS (ISDT 8.0),Samar Kagalwalla,2,46,24,5,2,191.67,c Nikhil K b Karan D
+224,3921,2,JNS TOROS (ISDT 8.0),Kunal Jhaveri,3,22,17,2,0,129.41,run out ( Zubin E )
+224,3921,2,JNS TOROS (ISDT 8.0),Vishal Majmudar,4,10,9,1,0,111.11,St Mukund J b Satbirsingh N
+224,3921,2,JNS TOROS (ISDT 8.0),Manoje Biddvai,5,6,6,1,0,100.0,b Zubin E
+224,3921,2,JNS TOROS (ISDT 8.0),Sahil Parikh,6,11,5,1,1,220.0,not out
+224,3921,2,JNS TOROS (ISDT 8.0),Divi Sisodia,7,0,0,0,0,0.0,not out
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Vishal .,1,2,3,0,0,66.67,b Malay J
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Karan Chugh,2,3,5,0,0,60.0,c Tapan B b Malay J
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Jeetendra Mulchandani,3,26,29,4,0,89.66,c Tapan B b Siddhart G
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Premjit Tawde,4,10,11,1,0,90.91,Hit Wicket Harsh S
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Pavan Patheja,5,5,6,1,0,83.33,c Tapan B b Bhoumick V
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Humaid Shaikh,6,14,17,1,0,82.35,c Siddhart G b Tapan B
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Ojas Mehta,7,27,25,1,1,108.0,c Hrithik . b Harsh S
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Sunil Punjabi,8,13,12,1,0,108.33,St Kumar S b Bhoumick V
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Himanshu Waingankar,9,8,8,0,0,100.0,not out
+224,3928,1,SCOTTISH STRIKING STARS (ISDT 8.0),Tripooraj Dhawale,10,2,4,0,0,50.0,run out ( Tapan B )
+224,3928,2,DAIS ACES (ISDT 8.0),Kumar Singhee,1,28,34,4,0,82.35,c Sunil P b Vinod G
+224,3928,2,DAIS ACES (ISDT 8.0),Gautam Asudani,2,7,14,1,0,50.0,c Pavan P b Himanshu W
+224,3928,2,DAIS ACES (ISDT 8.0),Siddhart Gopalkrishnan,3,25,25,2,0,100.0,b Tripooraj D
+224,3928,2,DAIS ACES (ISDT 8.0),Tapan Bhatt,4,28,28,2,0,100.0,b Isaac N
+224,3928,2,DAIS ACES (ISDT 8.0),Kalp Parikh,5,4,11,0,0,36.36,lbw b Isaac N
+224,3928,2,DAIS ACES (ISDT 8.0),Harsh Shah,6,1,3,0,0,33.33,run out ( Premjit T )
+224,3928,2,DAIS ACES (ISDT 8.0),Divya Mehta,7,0,1,0,0,0.0,c † Premjit T b Isaac N
+224,3928,2,DAIS ACES (ISDT 8.0),Srikant Chakka,8,0,3,0,0,0.0,run out ( Ojas M )
+224,3928,2,DAIS ACES (ISDT 8.0),Bhoumick Vaidya,9,1,1,0,0,100.0,not out
+224,3929,1,JB SUPER DADS (ISDT 8.0),Shahen Mistry,1,13,8,3,0,162.5,b Rohit S
+224,3929,1,JB SUPER DADS (ISDT 8.0),Behzaad Devadhvala,2,49,28,11,0,175.0,b Hemal C
+224,3929,1,JB SUPER DADS (ISDT 8.0),Vikram Dani,3,1,11,0,0,9.09,c Rohit S b Hemal C
+224,3929,1,JB SUPER DADS (ISDT 8.0),Punit Satiya,4,29,28,2,2,103.57,b Meet S
+224,3929,1,JB SUPER DADS (ISDT 8.0),Ankur Jhaveri,5,28,24,4,0,116.67,c † Rishiraj L b Meet S
+224,3929,1,JB SUPER DADS (ISDT 8.0),Harshal Shah,6,2,5,0,0,40.0,c Jeetinder D b Rajeev A
+224,3929,1,JB SUPER DADS (ISDT 8.0),Hiten Doshi,7,17,11,3,0,154.55,not out
+224,3929,1,JB SUPER DADS (ISDT 8.0),Jatin Vakharia,8,0,1,0,0,0.0,b Rohit S
+224,3929,1,JB SUPER DADS (ISDT 8.0),Gaurav Doshi,9,0,1,0,0,0.0,c † Rishiraj L b Rohit S
+224,3929,1,JB SUPER DADS (ISDT 8.0),Kalpesh Sanghvi,10,4,4,0,0,100.0,not out
+224,3929,2,JNS MUSTANGS (ISDT 8.0),Rahul Sughand,1,28,28,4,0,100.0,c Shahen M b Bhairav S
+224,3929,2,JNS MUSTANGS (ISDT 8.0),Karan Jain,2,2,7,0,0,28.57,c Shahen M b Punit S
+224,3929,2,JNS MUSTANGS (ISDT 8.0),Jeetinder Diwan,3,36,35,3,0,102.86,c Harshal S b Parag M
+224,3929,2,JNS MUSTANGS (ISDT 8.0),Dheeraj Shriyan,4,60,29,7,2,206.9,not out
+224,3929,2,JNS MUSTANGS (ISDT 8.0),Vikas Linga,5,12,9,1,0,133.33,c Vikram D b Jatin V
+224,3929,2,JNS MUSTANGS (ISDT 8.0),Niraj Parab,6,7,7,0,0,100.0,lbw b Jatin V
+224,3929,2,JNS MUSTANGS (ISDT 8.0),Rohit Saraf,7,1,1,0,0,100.0,not out
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Siddharth Shah,1,24,22,2,0,109.09,c Vinay J b Rajiv H
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Siddharth Kadam,2,63,37,7,1,170.27,b Ankit S
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Asgar Khan,3,9,5,1,0,180.0,c Himanshu R b Babul M
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Deven Dhruva,4,10,5,0,1,200.0,c Himanshu R b Rajiv H
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Shailesh Maniya,5,3,5,0,0,60.0,lbw b Rajiv H
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Sadanand Poojary,6,14,13,1,0,107.69,b Ankit S
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Pratik Desai,7,7,6,0,0,116.67,run out ( Babul M )
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Kalpesh Mehta,8,22,14,3,0,157.14,not out
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Gautam Sheth,9,4,5,0,0,80.0,c Ankit S b Ankit S
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Rushabh Shah,10,7,9,0,0,77.78,run out ( Himanshu R )
+224,3930,1,UTPAL WARRIORS (ISDT 8.0),Virat Jain,11,0,0,0,0,0.0,not out
+224,3930,2,BD ROYALS (ISDT 8.0),Vinay Jain,1,2,6,0,0,33.33,b Shailesh M
+224,3930,2,BD ROYALS (ISDT 8.0),Ankit Shah,2,8,4,2,0,200.0,c Shailesh M b Pratik D
+224,3930,2,BD ROYALS (ISDT 8.0),Haresh Adnani,3,17,26,1,0,65.38,c Rushabh S b Deven D
+224,3930,2,BD ROYALS (ISDT 8.0),Babul Mody,4,14,13,1,1,107.69,c Pratik D b Shailesh M
+224,3930,2,BD ROYALS (ISDT 8.0),Ankit Sanghvi,5,0,2,0,0,0.0,c Kalpesh M b Shailesh M
+224,3930,2,BD ROYALS (ISDT 8.0),Himanshu Ranka,6,9,18,1,0,50.0,St Siddharth S b Deven D
+224,3930,2,BD ROYALS (ISDT 8.0),Jay Desai .,7,7,7,1,0,100.0,c Deven D b Asgar K
+224,3930,2,BD ROYALS (ISDT 8.0),Kairav Parikh,8,8,8,1,0,100.0,run out ( Sadanand P )
+224,3930,2,BD ROYALS (ISDT 8.0),Amit Minde,9,28,18,5,0,155.56,lbw b Deven D
+224,3930,2,BD ROYALS (ISDT 8.0),Rajiv Hingoo,10,9,5,2,0,180.0,not out
+224,3930,2,BD ROYALS (ISDT 8.0),Shamit Desai,11,1,2,0,0,50.0,c Sadanand P b Gautam S
+224,3931,1,GE ROARING TIGERS (ISDT 8.0),Pranav Soparkar,1,4,7,1,0,57.14,b Vibhu M
+224,3931,1,GE ROARING TIGERS (ISDT 8.0),Vikrant Pathare,2,5,6,1,0,83.33,b Jitendra S
+224,3931,1,GE ROARING TIGERS (ISDT 8.0),Sanjay Chandiramani,3,5,11,0,0,45.45,run out ( Gandharv J )
+224,3931,1,GE ROARING TIGERS (ISDT 8.0),Sundaresh .,4,33,29,4,0,113.79,run out ( Amol S )
+224,3931,1,GE ROARING TIGERS (ISDT 8.0),Yogesh Wagh,5,22,19,3,0,115.79,c&b Dhiraj S
+224,3931,1,GE ROARING TIGERS (ISDT 8.0),Prasad Arolkar,6,12,9,1,0,133.33,St Gautam J b Gandharv J
+224,3931,1,GE ROARING TIGERS (ISDT 8.0),Vipin Rai,7,21,17,2,1,123.53,b Vibhu M
+224,3931,1,GE ROARING TIGERS (ISDT 8.0),Amar Mhatre,8,26,22,2,1,118.18,not out
+224,3931,2,NIS LAKERS (ISDT 8.0),Gautam Jain,1,20,15,3,0,133.33,b Ronak C
+224,3931,2,NIS LAKERS (ISDT 8.0),Umesh Mehra,2,25,27,2,0,92.59,run out ( Amar M )
+224,3931,2,NIS LAKERS (ISDT 8.0),Jitendra Singh,3,1,2,0,0,50.0,c Yogesh W b Prasad A
+224,3931,2,NIS LAKERS (ISDT 8.0),Dhiraj Sharma,4,4,6,0,0,66.67,lbw b Sanjay C
+224,3931,2,NIS LAKERS (ISDT 8.0),Kartik Chopda,5,1,4,0,0,25.0,lbw b Ronak C
+224,3931,2,NIS LAKERS (ISDT 8.0),Vibhu Manya,6,7,10,0,0,70.0,b Yogesh W
+224,3931,2,NIS LAKERS (ISDT 8.0),Amol Saxena,7,28,21,1,2,133.33,c † Vikrant P b Ronak C
+224,3931,2,NIS LAKERS (ISDT 8.0),Gandharv Jain,8,1,6,0,0,16.67,b Arvind S
+224,3931,2,NIS LAKERS (ISDT 8.0),Girish .,9,2,4,0,0,50.0,c † Vikrant P b Arvind S
+224,3931,2,NIS LAKERS (ISDT 8.0),Rahul Bajaj,10,0,2,0,0,0.0,b Ronak C
+224,3931,2,NIS LAKERS (ISDT 8.0),Aliasgar Karwa,11,0,0,0,0,0.0,not out
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Abdul Latif,1,19,18,3,0,105.56,lbw b Eric B
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Mitesh Rajawat,2,7,6,1,0,116.67,b Eric B
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Imran Kagalwala,3,0,1,0,0,0.0,c Harshraj A b Eric B
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Yusuf Patel,4,4,5,1,0,80.0,b Munawar M
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Murtaza .,5,2,5,0,0,40.0,run out ( Eric B )
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Shams .,6,1,6,0,0,16.67,c Sachin D b Kashif S
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Bhavesh Jain,7,5,7,1,0,71.43,c † Shawn B b Shakir S
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Alif Makani,8,5,15,0,0,33.33,c † Shawn B b Harshraj A
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Nikhil Rajawat,9,5,11,0,0,45.45,b Harshraj A
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Vishal Jain,10,12,17,1,0,70.59,not out
+224,3932,1,FAZLANI UNITED (ISDT 8.0),Hitesh Bafna,11,7,28,0,0,25.0,run out ( Harshraj A )
+224,3932,2,PETIT PANTHERS (ISDT 8.0),Sachin Jadhavar,1,62,35,11,0,177.14,not out
+224,3932,2,PETIT PANTHERS (ISDT 8.0),Naved Shariff,2,8,4,2,0,200.0,c † Abdul L b Nikhil R
+224,3932,2,PETIT PANTHERS (ISDT 8.0),Sachin Deshpande,3,18,15,2,0,120.0,not out
+224,3933,1,JNS SUPREMOS (ISDT 8.0),Pratik Chitalia,1,21,19,2,0,110.53,c Ashish L b Sadiq L
+224,3933,1,JNS SUPREMOS (ISDT 8.0),Lavesh Kalsekar,2,15,10,2,0,150.0,St Ribhu D b Vaseem L
+224,3933,1,JNS SUPREMOS (ISDT 8.0),Jay Kedia,3,19,17,1,0,111.76,lbw b Vineet K
+224,3933,1,JNS SUPREMOS (ISDT 8.0),Manaan Gandhi,4,16,19,2,0,84.21,c Rayed M b Muddassar V
+224,3933,1,JNS SUPREMOS (ISDT 8.0),Rahul Agarwal,5,7,9,1,0,77.78,c † Ribhu D b Muddassar V
+224,3933,1,JNS SUPREMOS (ISDT 8.0),Abhishek Pingley,6,17,22,0,0,77.27,not out
+224,3933,1,JNS SUPREMOS (ISDT 8.0),Kanav Hingorani,7,44,24,2,3,183.33,c Fahim A b Rayed M
+224,3933,2,JBCN AVENGERS (ISDT 8.0),Huzefa Qaiser,1,13,13,1,0,100.0,b Varun S
+224,3933,2,JBCN AVENGERS (ISDT 8.0),Ribhu Dasgupta,2,7,13,0,0,53.85,c † Manaan G b Varun S
+224,3933,2,JBCN AVENGERS (ISDT 8.0),Vaseem Lashkaria,3,55,43,5,0,127.91,c Pratik C b Vishal .
+224,3933,2,JBCN AVENGERS (ISDT 8.0),Swapneel Hazare,4,57,39,5,2,146.15,not out
+224,3933,2,JBCN AVENGERS (ISDT 8.0),Ashish Lala,5,0,2,0,0,0.0,c Kanav H b Vishal .
+224,3933,2,JBCN AVENGERS (ISDT 8.0),Rayed Merchant,6,15,5,1,1,300.0,not out
+224,3936,1,AVM YODDHAS (ISDT 8.0),Chetan Kapoor,1,12,11,2,0,109.09,b Balakrishna S
+224,3936,1,AVM YODDHAS (ISDT 8.0),Vishal Miglani,2,13,15,2,0,86.67,lbw b Maninadra S
+224,3936,1,AVM YODDHAS (ISDT 8.0),Nilay Shah,3,20,21,1,0,95.24,run out ( Prathmesh P )
+224,3936,1,AVM YODDHAS (ISDT 8.0),Shailesh Gowda,4,27,24,1,1,112.5,lbw b Mahesh B
+224,3936,1,AVM YODDHAS (ISDT 8.0),Vishal Pandey,5,25,14,5,0,178.57,b Balakrishna S
+224,3936,1,AVM YODDHAS (ISDT 8.0),Sivanandan Konar,6,64,33,4,4,193.94,not out
+224,3936,1,AVM YODDHAS (ISDT 8.0),Rishi Mapara,7,8,4,1,0,200.0,not out
+224,3936,2,AVM ARYANS (ISDT 8.0),Mayur Biyani,1,11,10,2,0,110.0,b Saurabh M
+224,3936,2,AVM ARYANS (ISDT 8.0),Hitesh Ratanpal,2,3,4,0,0,75.0,c Rishi M b Kaustubh G
+224,3936,2,AVM ARYANS (ISDT 8.0),Balakrishna Shirke,3,42,33,5,1,127.27,c Vishal P b Sivanandan K
+224,3936,2,AVM ARYANS (ISDT 8.0),Prathmesh Parle,4,6,9,1,0,66.67,lbw b Manavendra M
+224,3936,2,AVM ARYANS (ISDT 8.0),Vinay Date,5,11,13,0,0,84.62,c Chetan K b Sivanandan K
+224,3936,2,AVM ARYANS (ISDT 8.0),Maninadra Singh,6,41,25,2,2,164.0,c Shailesh G b Saurabh M
+224,3936,2,AVM ARYANS (ISDT 8.0),Amit Meherotra,7,7,17,0,0,41.18,b Saurabh M
+224,3936,2,AVM ARYANS (ISDT 8.0),Akshay Borkar,8,2,3,0,0,66.67,not out
+224,3936,2,AVM ARYANS (ISDT 8.0),Tushar Shinde,9,11,7,2,0,157.14,not out
+224,3937,1,OIS BLASTERS (ISDT 8.0),Vinod Lund,1,65,52,7,2,125.0,c Rahul D b Vipul .
+224,3937,1,OIS BLASTERS (ISDT 8.0),Rishi Pilani,2,4,8,0,0,50.0,lbw b Rahul D
+224,3937,1,OIS BLASTERS (ISDT 8.0),Anshul Lodha,3,10,17,1,0,58.82,b Nimesh F
+224,3937,1,OIS BLASTERS (ISDT 8.0),Piyush Patel,4,18,22,2,0,81.82,b Vipul .
+224,3937,1,OIS BLASTERS (ISDT 8.0),Gautam M,5,4,5,0,0,80.0,run out ( Chirag S )
+224,3937,1,OIS BLASTERS (ISDT 8.0),Pratik Sanghavi,6,3,5,0,0,60.0,c Rahul D b Vipul .
+224,3937,1,OIS BLASTERS (ISDT 8.0),Happy Bindra,7,5,5,0,0,100.0,b Nimesh F
+224,3937,1,OIS BLASTERS (ISDT 8.0),Vinit Agarwal,8,6,5,1,0,120.0,not out
+224,3937,1,OIS BLASTERS (ISDT 8.0),Puneet .,9,3,2,0,0,150.0,not out
+224,3937,2,TRULY MARIANS (ISDT 8.0),Vijay Singh,1,26,31,2,1,83.87,c † Pratik S b Amitraj B
+224,3937,2,TRULY MARIANS (ISDT 8.0),Anzer Chougule,2,18,14,4,0,128.57,b Piyush P
+224,3937,2,TRULY MARIANS (ISDT 8.0),Harshit Ramanlal Darji,3,0,1,0,0,0.0,St Pratik S b Piyush P
+224,3937,2,TRULY MARIANS (ISDT 8.0),Chirag Shah,4,54,43,5,1,125.58,not out
+224,3937,2,TRULY MARIANS (ISDT 8.0),Mohammed Bori,5,3,7,0,0,42.86,c Vinit A b Amitraj B
+224,3937,2,TRULY MARIANS (ISDT 8.0),Taikhoom Jodiawala,6,8,10,1,0,80.0,lbw b Gautam M
+224,3937,2,TRULY MARIANS (ISDT 8.0),Jinesh Indarmal Kothari,7,12,11,1,0,109.09,c Vinit A b Vinod L
+224,3937,2,TRULY MARIANS (ISDT 8.0),Nirav Vora,8,0,2,0,0,0.0,c Vinod L b Jay P
+224,3937,2,TRULY MARIANS (ISDT 8.0),Rahul Doshi,9,0,1,0,0,0.0,not out
+224,3939,1,PODAR PHANTOMS (ISDT 8.0),Pooran Kshatriya,1,11,9,2,0,122.22,b Ritesh P
+224,3939,1,PODAR PHANTOMS (ISDT 8.0),Amit Bhawsinghka,2,12,20,0,0,60.0,c&b Dhruven J
+224,3939,1,PODAR PHANTOMS (ISDT 8.0),Tenzing Niyogi,3,22,15,2,2,146.67,c Pramod C b Tejas G
+224,3939,1,PODAR PHANTOMS (ISDT 8.0),Sudeep Gokhale,4,42,35,5,0,120.0,c Dhruven J b Ritesh P
+224,3939,1,PODAR PHANTOMS (ISDT 8.0),Jay Samant,5,50,34,6,1,147.06,c Pramod C b Dhruven J
+224,3939,1,PODAR PHANTOMS (ISDT 8.0),Raviraj Shetty,6,10,5,1,0,200.0,run out ( Ritesh P )
+224,3939,1,PODAR PHANTOMS (ISDT 8.0),Jayan Shah,7,1,2,0,0,50.0,not out
+224,3939,2,MRV RISERS (ISDT 8.0),Pramod Chandan,1,33,32,5,0,103.12,c Rushin M b Abhishek S
+224,3939,2,MRV RISERS (ISDT 8.0),Rohan Patel,2,9,11,2,0,81.82,c Jay S b Raviraj S
+224,3939,2,MRV RISERS (ISDT 8.0),Dhruven Jain,3,1,4,0,0,25.0,c † Tenzing N b Jay S
+224,3939,2,MRV RISERS (ISDT 8.0),Sanjeev Rohra,4,6,6,1,0,100.0,c † Tenzing N b Jay S
+224,3939,2,MRV RISERS (ISDT 8.0),Chinmay Dalvi,5,30,34,2,0,88.24,not out
+224,3939,2,MRV RISERS (ISDT 8.0),Tejas Gada,6,3,5,0,0,60.0,c Rushi A b Viren S
+224,3939,2,MRV RISERS (ISDT 8.0),Mayur Bikhchandani,7,13,9,0,1,144.44,c Rushin M b Jay B
+224,3939,2,MRV RISERS (ISDT 8.0),Jinesh Shah,8,17,17,0,1,100.0,St Tenzing N b Jayan S
+224,3939,2,MRV RISERS (ISDT 8.0),Bhavin Shah,9,1,2,0,0,50.0,not out
+224,3940,1,JBCN UNITED (ISDT 8.0),Chirag Modi,1,21,33,1,0,63.64,run out ( Swapnil G )
+224,3940,1,JBCN UNITED (ISDT 8.0),Pranav P. Sanghvi,2,10,19,0,0,52.63,run out ( Ritesh B )
+224,3940,1,JBCN UNITED (ISDT 8.0),Tejas Chaudhari,3,9,12,0,0,75.0,c Sandip J b Anand B
+224,3940,1,JBCN UNITED (ISDT 8.0),Anshuman Agarwalla,4,0,3,0,0,0.0,run out ( Kunal L )
+224,3940,1,JBCN UNITED (ISDT 8.0),Nitin Kukreja,5,2,2,0,0,100.0,lbw b Vinay M
+224,3940,1,JBCN UNITED (ISDT 8.0),Bhavik Vasa,6,11,11,1,0,100.0,c Vinay M b Nikhil J
+224,3940,1,JBCN UNITED (ISDT 8.0),Ashish Kamdar,7,16,19,1,0,84.21,not out
+224,3940,1,JBCN UNITED (ISDT 8.0),Akshay Chadha,8,20,21,2,0,95.24,not out
+224,3940,2,USG GLADDIATORS (ISDT 8.0),Vinay Malpani,1,41,18,8,1,227.78,c Akshay C b Ashish K
+224,3940,2,USG GLADDIATORS (ISDT 8.0),Kamesh Shah,2,35,17,6,0,205.88,not out
+224,3940,2,USG GLADDIATORS (ISDT 8.0),Shreyansh Jain,3,16,6,4,0,266.67,not out
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Ribhu Dasgupta,1,9,5,2,0,180.0,c Vishal P b Kaustubh G
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Sunny Mankani,2,24,15,4,0,160.0,b Kaustubh G
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Ajay Dsilva,3,48,47,3,2,102.13,lbw b Rishi M
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Huzefa Qaiser,4,28,24,2,1,116.67,c Vishal P b Rishi M
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Rayed Merchant,5,9,9,0,0,100.0,b Manavendra M
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Ashish Lala,6,7,11,0,0,63.64,run out ( Nilay S )
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Kartik Kapoor,7,7,4,0,1,175.0,c Vishal P b Kaustubh G
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Ashutosh Punekar,8,1,3,0,0,33.33,run out ( Nilay S / Manavendra M )
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Deepan Mankad,9,0,0,0,0,0.0,run out ( Nilay S )
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Sadiq Lashkaria,10,1,1,0,0,100.0,not out
+224,3942,1,JBCN AVENGERS (ISDT 8.0),Satish Sawant,11,0,1,0,0,0.0,not out
+224,3942,2,AVM YODDHAS (ISDT 8.0),Chetan Kapoor,1,11,9,2,0,122.22,not out
+224,3942,2,AVM YODDHAS (ISDT 8.0),Vishal Miglani,2,0,1,0,0,0.0,lbw b Kartik K
+224,3942,2,AVM YODDHAS (ISDT 8.0),Nilay Shah,3,36,33,3,1,109.09,not out
+224,3942,2,AVM YODDHAS (ISDT 8.0),Shailesh Gowda,4,39,30,4,0,130.0,c Ribhu D b Muddassar V
+224,3942,2,AVM YODDHAS (ISDT 8.0),Vishal Pandey,5,33,16,7,0,206.25,St Satish S b Akhil S
+224,3942,2,AVM YODDHAS (ISDT 8.0),Rishi Mapara,6,16,8,2,1,200.0,not out
+224,3943,1,JNS TOROS (ISDT 8.0),Rakesh Wadhwani,1,34,28,2,1,121.43,c Arun M b Sahil S
+224,3943,1,JNS TOROS (ISDT 8.0),Samar Kagalwalla,2,18,28,1,0,64.29,run out ( Sahil S )
+224,3943,1,JNS TOROS (ISDT 8.0),Kunal Jhaveri,3,29,28,2,1,103.57,c Arun M b Manav G
+224,3943,1,JNS TOROS (ISDT 8.0),Manoje Biddvai,4,12,11,2,0,109.09,c Ajit V b Manav G
+224,3943,1,JNS TOROS (ISDT 8.0),Seemab Khan,5,0,3,0,0,0.0,b Manav G
+224,3943,1,JNS TOROS (ISDT 8.0),Vikas Arora,6,2,3,0,0,66.67,c Gopal B b Manav G
+224,3943,1,JNS TOROS (ISDT 8.0),Sahil Parikh,7,12,11,2,0,109.09,c Manav G b Nimit P
+224,3943,1,JNS TOROS (ISDT 8.0),Shamin Karbhari,8,5,7,0,0,71.43,not out
+224,3943,1,JNS TOROS (ISDT 8.0),Divi Sisodia,9,2,2,0,0,100.0,not out
+224,3943,2,OIS TIGERS (ISDT 8.0),Abhishek Dutt,1,57,53,9,0,107.55,c Sahil P b Jimmy S
+224,3943,2,OIS TIGERS (ISDT 8.0),Vikram Panjwani,2,31,37,4,0,83.78,c Jimmy S b Seemab K
+224,3943,2,OIS TIGERS (ISDT 8.0),Sharad Kelkar,3,7,5,0,1,140.0,b Gurmeet Singh A
+224,3943,2,OIS TIGERS (ISDT 8.0),Ajit Virwani,4,23,16,3,0,143.75,not out
+224,3943,2,OIS TIGERS (ISDT 8.0),Arun Madhu,5,2,1,0,0,200.0,not out
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Ojas Mehta,1,29,30,2,0,96.67,b Virat J
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Himanshu Waingankar,2,4,4,1,0,100.0,run out ( Siddharth S )
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Karan Chugh,3,11,14,0,0,78.57,c Shailesh M b Pratik D
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Pavan Patheja,4,4,10,0,0,40.0,St Siddharth S b Virat J
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Humaid Shaikh,5,0,3,0,0,0.0,b Abhishek S
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Jeetendra Mulchandani,6,7,19,0,0,36.84,run out ( Asgar K / Siddharth S )
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Premjit Tawde,7,0,1,0,0,0.0,lbw b Asgar K
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Sunil Punjabi,8,0,1,0,0,0.0,c Virat J b Asgar K
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Omkar Joijode,9,9,26,0,0,34.62,not out
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Nishant Ranka,10,5,10,0,0,50.0,b Pratik D
+224,3944,1,SCOTTISH STRIKING STARS (ISDT 8.0),Isaac Nazareth,11,2,2,0,0,100.0,not out
+224,3944,2,UTPAL WARRIORS (ISDT 8.0),Siddharth Kadam,1,18,23,2,0,78.26,c Humaid S b Vinod G
+224,3944,2,UTPAL WARRIORS (ISDT 8.0),Abhishek Sunny,2,39,31,5,1,125.81,b Isaac N
+224,3944,2,UTPAL WARRIORS (ISDT 8.0),Pavan Shah,3,9,8,0,0,112.5,not out
+224,3944,2,UTPAL WARRIORS (ISDT 8.0),Asgar Khan,4,8,10,1,0,80.0,not out
+224,3947,1,OIS BLASTERS (ISDT 8.0),Vinod Lund,1,38,43,5,0,88.37,b Munawar M
+224,3947,1,OIS BLASTERS (ISDT 8.0),Piyush Patel,2,18,11,4,0,163.64,c Paarth D b Sachin D
+224,3947,1,OIS BLASTERS (ISDT 8.0),Anshul Lodha,3,22,20,4,0,110.0,St Shawn B b Kashif S
+224,3947,1,OIS BLASTERS (ISDT 8.0),Happy Bindra,4,34,26,3,1,130.77,c Fardeen M b Harshraj A
+224,3947,1,OIS BLASTERS (ISDT 8.0),Amanpreet Singh,5,3,3,0,0,100.0,c Harshraj A b Sachin J
+224,3947,1,OIS BLASTERS (ISDT 8.0),Amitraj Bachher,6,8,10,0,0,80.0,St Shawn B b Harshraj A
+224,3947,1,OIS BLASTERS (ISDT 8.0),Jay Parikh,7,1,3,0,0,33.33,run out ( Sachin J )
+224,3947,1,OIS BLASTERS (ISDT 8.0),Nishit .,8,0,0,0,0,0.0,run out ( Shawn B )
+224,3947,1,OIS BLASTERS (ISDT 8.0),Chirag .,9,1,4,0,0,25.0,not out
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Sachin Jadhavar,1,25,18,3,0,138.89,c Amanpreet S b Vinod L
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Fardeen Malbarwala,2,1,2,0,0,50.0,c Shomik . b Vinod L
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Sachin Deshpande,3,49,48,2,0,102.08,b Amitraj B
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Hadi Mukadam,4,8,11,0,0,72.73,lbw b Shomik .
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Shawn Brindley,5,31,26,2,0,119.23,run out ( Amanpreet S )
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Sarfaraz Jumani,6,9,6,0,1,150.0,c Amanpreet S b Jay P
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Shakir Shandiwan,7,2,2,0,0,100.0,c Piyush P b Vinod L
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Munawar Mansuri,8,0,2,0,0,0.0,c Amanpreet S b Vinod L
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Harshraj Alaspure,9,3,4,0,0,75.0,not out
+224,3947,2,PETIT PANTHERS (ISDT 8.0),Rabinder Singh,10,0,1,0,0,0.0,run out ( Jay P )
+224,3948,1,AB WARRIORS (ISDT 8.0),Aditya Rajadhyaksha,1,0,1,0,0,0.0,lbw b Raviraj S
+224,3948,1,AB WARRIORS (ISDT 8.0),Nipun Kothari,2,2,5,0,0,40.0,lbw b Raviraj S
+224,3948,1,AB WARRIORS (ISDT 8.0),Naresh Naik,3,0,1,0,0,0.0,lbw b Raviraj S
+224,3948,1,AB WARRIORS (ISDT 8.0),Paras Zaveri,4,50,43,5,1,116.28,c Paresh S b Mahesh S
+224,3948,1,AB WARRIORS (ISDT 8.0),Manish Jain,5,25,31,1,0,80.65,b Abhishek S
+224,3948,1,AB WARRIORS (ISDT 8.0),Janak Sanghvi,6,7,5,1,0,140.0,run out ( Abhishek S )
+224,3948,1,AB WARRIORS (ISDT 8.0),Shailendra Jhingan,7,2,3,0,0,66.67,lbw b Abhishek S
+224,3948,1,AB WARRIORS (ISDT 8.0),Qadir Rangwala,8,12,14,0,0,85.71,not out
+224,3948,1,AB WARRIORS (ISDT 8.0),Krupesh Ved,9,9,13,0,0,69.23,run out ( Jayan S )
+224,3948,1,AB WARRIORS (ISDT 8.0),Saumik Gandhi,10,3,4,0,0,75.0,not out
+224,3948,2,PODAR PHANTOMS (ISDT 8.0),Pooran Kshatriya,1,10,8,0,1,125.0,b Janak S
+224,3948,2,PODAR PHANTOMS (ISDT 8.0),Amit Bhawsinghka,2,53,35,6,2,151.43,b Ravi M
+224,3948,2,PODAR PHANTOMS (ISDT 8.0),Tenzing Niyogi,3,53,40,8,0,132.5,not out
+224,3948,2,PODAR PHANTOMS (ISDT 8.0),Jayan Shah,4,5,7,0,0,71.43,not out
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Pranav Soparkar,1,8,6,2,0,133.33,b Rohit S
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Viraj H,2,0,2,0,0,0.0,lbw b Hitesh P
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Vipin Rai,3,0,6,0,0,0.0,b Hitesh P
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Sundaresh .,4,27,21,5,0,128.57,b Hemal C
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Santosh Jadhav,5,33,41,4,0,80.49,St Rishiraj L b Hemal C
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Chittranjan Prabhu,6,44,22,1,4,200.0,c † Rishiraj L b Rohit S
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Yogesh Wagh,7,1,2,0,0,50.0,St Rishiraj L b Hemal C
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Prasad Arolkar,8,12,8,0,1,150.0,St Rishiraj L b Ronak S
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Kiran Pednekar,9,15,6,2,1,250.0,not out
+224,3950,1,GE ROARING TIGERS (ISDT 8.0),Amar Mhatre,10,5,6,0,0,83.33,not out
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Jeetinder Diwan,1,12,16,1,0,75.0,c Prasad A b Mayur D
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Hemal Chitalia,2,0,1,0,0,0.0,b Prasad A
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Ronak Sachdeva,3,0,3,0,0,0.0,b Yogesh W
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Dheeraj Shriyan,4,5,4,1,0,125.0,c Mayur D b Prasad A
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Vikas Linga,5,0,1,0,0,0.0,lbw b Prasad A
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Rohit Saraf,6,2,4,0,0,50.0,c † Viraj H b Mayur D
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Rishiraj Lakhani,7,21,25,2,0,84.0,lbw b Kiran P
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Jaymin Shah,8,27,25,4,0,108.0,c † Viraj H b Chittranjan P
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Viral Amin,9,9,8,1,0,112.5,not out
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Rajan Cheddha,10,4,7,0,0,57.14,c Prasad A b Yogesh W
+224,3950,2,JNS MUSTANGS (ISDT 8.0),Gokul Patel,11,2,5,0,0,40.0,run out ( Santosh J )
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Aalok Shah,1,0,2,0,0,0.0,b Shashank .
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Ryan Rodrigues,2,11,6,2,0,183.33,b Shashank .
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Abhijat Sanghvi,3,16,20,0,0,80.0,run out ( Himanshu . )
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Alok Desai,4,62,47,8,1,131.91,St Pinaki . b Prateek .
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Pranay .,5,22,27,3,0,81.48,lbw b Shashank .
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Sahil Shah,6,12,9,1,0,133.33,run out ( Vruturaj . )
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Vishal Vora,7,9,5,1,0,180.0,c † Pinaki . b Vruturaj .
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Gautam Sahni,8,3,4,0,0,75.0,not out
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Chetan Rupani,9,1,1,0,0,100.0,run out ( Pinaki . )
+224,3952,1,CATHEDRAL KNIGHTS (ISDT 8.0),Mihir Mehta,10,0,0,0,0,0.0,not out
+224,3952,2,SCOTTISH STARS (ISDT 8.0),Pinaki .,1,27,20,1,1,135.0,St Alok D b Mihir M
+224,3952,2,SCOTTISH STARS (ISDT 8.0),Charles Sam,2,42,23,7,0,182.61,c Ryan R b Vishal V
+224,3952,2,SCOTTISH STARS (ISDT 8.0),Aditya .,3,30,29,1,1,103.45,not out
+224,3952,2,SCOTTISH STARS (ISDT 8.0),Prateek .,4,1,2,0,0,50.0,lbw b Vishal V
+224,3952,2,SCOTTISH STARS (ISDT 8.0),Himanshu .,5,19,15,1,1,126.67,run out ( Pranay . )
+224,3952,2,SCOTTISH STARS (ISDT 8.0),Manthan .,6,20,19,0,1,105.26,not out
+224,3957,1,PODAR PHANTOMS (ISDT 8.0),Amit Bhawsinghka,1,4,10,0,0,40.0,run out ( Mayur . )
+224,3957,1,PODAR PHANTOMS (ISDT 8.0),Pooran Kshatriya,2,1,2,0,0,50.0,b Shashank .
+224,3957,1,PODAR PHANTOMS (ISDT 8.0),Tenzing Niyogi,3,120,61,9,9,196.72,not out
+224,3957,1,PODAR PHANTOMS (ISDT 8.0),Jayan Shah,4,8,14,0,0,57.14,c Nikhil . b Prerak .
+224,3957,1,PODAR PHANTOMS (ISDT 8.0),Jay Samant,5,0,2,0,0,0.0,c Charles S b Prerak .
+224,3957,1,PODAR PHANTOMS (ISDT 8.0),Rohit Kulkarni,6,22,16,1,1,137.5,b Shashank .
+224,3957,1,PODAR PHANTOMS (ISDT 8.0),Rushi Ardeshna,7,9,6,2,0,150.0,c Preet . b Prerak .
+224,3957,1,PODAR PHANTOMS (ISDT 8.0),Raviraj Shetty,8,11,10,1,0,110.0,not out
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Mayur .,1,8,6,2,0,133.33,c&b Raviraj S
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Preet .,2,12,15,2,0,80.0,c † Tenzing N b Jay S
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Charles Sam,3,1,2,0,0,50.0,c Rupesh M b Jay S
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Himanshu .,4,18,13,4,0,138.46,c Rushi A b Paresh S
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Pinaki .,5,5,8,0,0,62.5,b Paresh S
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Nikhil .,6,14,9,2,0,155.56,run out ( Viren S )
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Prateek .,7,5,11,0,0,45.45,c † Tenzing N b Abhishek S
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Manthan .,8,1,2,0,0,50.0,b Paresh S
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Aditya .,9,20,23,1,0,86.96,not out
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Shashank .,10,2,3,0,0,66.67,b Paresh S
+224,3957,2,SCOTTISH STARS (ISDT 8.0),Prerak .,11,41,28,5,2,146.43,not out
+224,3958,1,UTPAL WARRIORS (ISDT 8.0),Siddharth Kadam,1,22,29,1,0,75.86,c Vikram P b Ajit V
+224,3958,1,UTPAL WARRIORS (ISDT 8.0),Deven Dhruva,2,0,1,0,0,0.0,c † Navin R b Nishant S
+224,3958,1,UTPAL WARRIORS (ISDT 8.0),Abhishek Sunny,3,18,8,4,0,225.0,c Navin R b Nishant S
+224,3958,1,UTPAL WARRIORS (ISDT 8.0),Kalpesh Mehta,4,0,1,0,0,0.0,c Arun M b Nishant S
+224,3958,1,UTPAL WARRIORS (ISDT 8.0),Asgar Khan,5,73,47,7,3,155.32,c † Navin R b Sahil S
+224,3958,1,UTPAL WARRIORS (ISDT 8.0),Shailesh Maniya,6,42,18,2,4,233.33,not out
+224,3958,1,UTPAL WARRIORS (ISDT 8.0),Pratik Desai,7,18,15,0,0,120.0,c Manav G b Nimit P
+224,3958,1,UTPAL WARRIORS (ISDT 8.0),Sadanand Poojary,8,1,1,0,0,100.0,not out
+224,3958,2,OIS TIGERS (ISDT 8.0),Abhishek Dutt,1,11,10,1,0,110.0,run out ( Siddharth S )
+224,3958,2,OIS TIGERS (ISDT 8.0),Vikram Panjwani,2,100,55,7,6,181.82,run out ( Deven D )
+224,3958,2,OIS TIGERS (ISDT 8.0),Punit Gambhir,3,11,11,2,0,100.0,b Asgar K
+224,3958,2,OIS TIGERS (ISDT 8.0),Sharad Kelkar,4,1,3,0,0,33.33,c Pratik D b Gautam S
+224,3958,2,OIS TIGERS (ISDT 8.0),Arun Madhu,5,1,2,0,0,50.0,run out ( Kalpesh M )
+224,3958,2,OIS TIGERS (ISDT 8.0),Ajit Virwani,6,0,0,0,0,0.0,run out ( Gautam S )
+224,3958,2,OIS TIGERS (ISDT 8.0),Gopal Bhutda,7,34,29,0,2,117.24,not out
+224,3958,2,OIS TIGERS (ISDT 8.0),Siddarth Gambhir,8,7,8,1,0,87.5,b Shailesh M
+224,3958,2,OIS TIGERS (ISDT 8.0),Sahil Shah,9,2,3,0,0,66.67,not out
+224,3959,1,OIS BLASTERS (ISDT 8.0),Vinod Lund,1,1,5,0,0,20.0,c Vinay M b Shreyansh J
+224,3959,1,OIS BLASTERS (ISDT 8.0),Anshul Lodha,2,1,4,0,0,25.0,c&b Ritesh B
+224,3959,1,OIS BLASTERS (ISDT 8.0),Pratik Sanghavi,3,1,12,0,0,8.33,c Alok M b Ritesh B
+224,3959,1,OIS BLASTERS (ISDT 8.0),Gautam M,4,7,16,0,0,43.75,b Anand B
+224,3959,1,OIS BLASTERS (ISDT 8.0),Vinit Agarwal,5,11,9,1,1,122.22,b Ritesh B
+224,3959,1,OIS BLASTERS (ISDT 8.0),Happy Bindra,6,32,30,3,0,106.67,c Yatin M b Alok M
+224,3959,1,OIS BLASTERS (ISDT 8.0),Amanpreet Singh,7,1,2,0,0,50.0,c † Kamesh S b Ronak M
+224,3959,1,OIS BLASTERS (ISDT 8.0),Puneet .,8,9,19,1,0,47.37,run out ( Vinay M / Alok M )
+224,3959,1,OIS BLASTERS (ISDT 8.0),Jay Parikh,9,2,2,0,0,100.0,run out ( Vinay M / Alok M )
+224,3959,1,OIS BLASTERS (ISDT 8.0),Amitraj Bachher,10,9,7,1,0,128.57,not out
+224,3959,1,OIS BLASTERS (ISDT 8.0),Shomik .,11,8,14,0,0,57.14,run out ( Vinay M / Alok M )
+224,3959,2,USG GLADDIATORS (ISDT 8.0),Vinay Malpani,1,41,20,8,0,205.0,Retired Out
+224,3959,2,USG GLADDIATORS (ISDT 8.0),Deepaq Modgil,2,33,23,7,0,143.48,Retired Out
+224,3959,2,USG GLADDIATORS (ISDT 8.0),Kamesh Shah,3,7,8,1,0,87.5,not out
+224,3959,2,USG GLADDIATORS (ISDT 8.0),Rajesh Jain,4,6,3,1,0,200.0,not out
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Mayur Desai,1,6,2,0,1,300.0,c Vishal P b Rishi M
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Yogesh Wagh,2,8,23,1,0,34.78,b Sachin M
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Snehal Anasariya,3,5,5,1,0,100.0,c Vishal M b Saurabh M
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Chittranjan Prabhu,4,13,13,0,1,100.0,b Sivanandan K
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Sundaresh .,5,48,32,6,1,150.0,c Vishal P b Nilay S
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Santosh Jadhav,6,15,15,2,0,100.0,St Dattaram P b Rishi M
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Vipin Rai,7,40,24,3,3,166.67,b Vishal P
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Prasad Arolkar,8,2,2,0,0,100.0,run out ( Vishal P )
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Kiran Pednekar,9,2,2,0,0,100.0,run out ( Dattaram P )
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Amar Mhatre,10,0,1,0,0,0.0,not out
+224,3960,1,GE ROARING TIGERS (ISDT 8.0),Kedar Kango,11,1,1,0,0,100.0,not out
+224,3960,2,AVM YODDHAS (ISDT 8.0),Saurabh Sinha,1,20,22,2,0,90.91,c&b Sanjay C
+224,3960,2,AVM YODDHAS (ISDT 8.0),Vishal Miglani,2,82,49,9,3,167.35,not out
+224,3960,2,AVM YODDHAS (ISDT 8.0),Chetan Kapoor,3,3,6,0,0,50.0,c Yogesh W b Prasad A
+224,3960,2,AVM YODDHAS (ISDT 8.0),Vishal Pandey,4,42,22,6,1,190.91,not out
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Pooran Kshatriya,1,16,10,3,0,160.0,run out ( Shreyansh J )
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Amit Bhawsinghka,2,16,18,2,0,88.89,c Ronak M b Alok M
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Tenzing Niyogi,3,41,31,5,1,132.26,run out ( Kamesh S )
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Sudeep Gokhale,4,38,25,4,1,152.0,c Alok M b Vinay M
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Jay Samant,5,26,15,2,2,173.33,c Lokesh R b Shreyansh J
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Rohit Kulkarni,6,2,3,0,0,66.67,b Shreyansh J
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Raviraj Shetty,7,18,14,0,1,128.57,run out ( Lokesh R )
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Jayan Shah,8,1,2,0,0,50.0,run out ( Ritesh B )
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Dishant Raghani,9,1,1,0,0,100.0,not out
+224,3979,1,PODAR PHANTOMS (ISDT 8.0),Rushi Ardeshna,10,0,1,0,0,0.0,b Ritesh B
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Vinay Malpani,1,41,39,5,1,105.13,c Raviraj S b Paresh S
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Deepaq Modgil,2,0,2,0,0,0.0,c&b Raviraj S
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Sandip Jajo,3,5,7,0,0,71.43,b Raviraj S
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Shreyansh Jain,4,0,5,0,0,0.0,c † Tenzing N b Jay S
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Kamesh Shah,5,12,15,1,0,80.0,c Paresh S b Viren S
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Ronak Mehta,6,13,8,2,0,162.5,c Mahesh S b Paresh S
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Lokesh Rughani,7,29,18,2,1,161.11,c † Tenzing N b Viren S
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Yatin Mora,8,37,20,2,2,185.0,run out ( Viren S )
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Ritesh Bhalani,9,0,3,0,0,0.0,c Raviraj S b Viren S
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Ankkit Meswani,10,1,2,0,0,50.0,not out
+224,3979,2,USG GLADDIATORS (ISDT 8.0),Rajesh Jain,11,1,1,0,0,100.0,not out
+224,3980,1,UTPAL WARRIORS (ISDT 8.0),Siddharth Kadam,1,41,46,3,0,89.13,c Nilay S b Sivanandan K
+224,3980,1,UTPAL WARRIORS (ISDT 8.0),Sadanand Poojary,2,21,29,2,0,72.41,Retired Out
+224,3980,1,UTPAL WARRIORS (ISDT 8.0),Abhishek Sunny,3,7,5,1,0,140.0,b Rishi M
+224,3980,1,UTPAL WARRIORS (ISDT 8.0),Deven Dhruva,4,48,19,7,2,252.63,not out
+224,3980,1,UTPAL WARRIORS (ISDT 8.0),Shailesh Maniya,5,1,2,0,0,50.0,b Rishi M
+224,3980,1,UTPAL WARRIORS (ISDT 8.0),Kalpesh Mehta,6,17,11,2,0,154.55,c Chetan K b Vishal P
+224,3980,1,UTPAL WARRIORS (ISDT 8.0),Pratik Desai,7,8,7,1,0,114.29,c † Dattaram P b Saurabh M
+224,3980,1,UTPAL WARRIORS (ISDT 8.0),Vishal Shah,8,1,1,0,0,100.0,run out ( Dattaram P )
+224,3980,2,AVM YODDHAS (ISDT 8.0),Chetan Kapoor,1,26,25,4,1,104.0,c Abhishek S b Pratik D
+224,3980,2,AVM YODDHAS (ISDT 8.0),Vishal Miglani,2,55,33,8,2,166.67,c † Siddharth S b Pratik D
+224,3980,2,AVM YODDHAS (ISDT 8.0),Vishal Pandey,3,39,25,2,2,156.0,not out
+224,3980,2,AVM YODDHAS (ISDT 8.0),Shailesh Gowda,4,9,7,1,0,128.57,c Kalpesh M b Deven D
+224,3980,2,AVM YODDHAS (ISDT 8.0),Rishi Mapara,5,1,2,0,0,50.0,c Shailesh M b Deven D
+224,3980,2,AVM YODDHAS (ISDT 8.0),Sivanandan Konar,6,30,18,4,1,166.67,not out
+200,3479,1,ANTIQUE FRIENDS (SMDL 2.0),Viral Somaiya,1,64,38,9,1,168.42,c&b Nikhil K
+200,3479,1,ANTIQUE FRIENDS (SMDL 2.0),Mayur Biyani,2,14,16,2,0,87.5,b Jitendra S
+200,3479,1,ANTIQUE FRIENDS (SMDL 2.0),Tushar Shinde,3,0,1,0,0,0.0,lbw b Jitendra S
+200,3479,1,ANTIQUE FRIENDS (SMDL 2.0),Sachin Jadhavar,4,75,43,10,2,174.42,c Puneet M b Nikhil K
+200,3479,1,ANTIQUE FRIENDS (SMDL 2.0),Pramod Chandan,5,15,16,1,0,93.75,run out ( Ryan R )
+200,3479,1,ANTIQUE FRIENDS (SMDL 2.0),Hitesh Khilnani,6,0,1,0,0,0.0,run out ( Puneet M )
+200,3479,1,ANTIQUE FRIENDS (SMDL 2.0),Akshay Borkar,7,5,2,1,0,250.0,not out
+200,3479,1,ANTIQUE FRIENDS (SMDL 2.0),Prashant Panchal,8,7,3,1,0,233.33,not out
+200,3479,2,SPORTSTERS (SMDL 2.0),Suchit Shah,1,38,33,3,1,115.15,b Prashant P
+200,3479,2,SPORTSTERS (SMDL 2.0),Jeetinder Diwan,2,8,9,1,0,88.89,c † Viral S b Akshay B
+200,3479,2,SPORTSTERS (SMDL 2.0),Puneet Mehra,3,21,19,3,0,110.53,c Pramod C b Mahesh B
+200,3479,2,SPORTSTERS (SMDL 2.0),Ryan Rodrigues,4,12,12,1,0,100.0,c Pramod C b Sachin J
+200,3479,2,SPORTSTERS (SMDL 2.0),Hitesh Bhayani,5,26,9,2,2,288.89,c Pramod C b Sachin J
+200,3479,2,SPORTSTERS (SMDL 2.0),Umesh Mehra,6,59,28,9,1,210.71,c Akshay B b Mahesh B
+200,3479,2,SPORTSTERS (SMDL 2.0),Jitendra Singh,7,8,10,0,0,80.0,not out
+200,3487,1,SPORTSTERS (SMDL 2.0),Puneet Mehra,1,4,6,1,0,66.67,c Shamit D b Shamin K
+200,3487,1,SPORTSTERS (SMDL 2.0),Jeetinder Diwan,2,0,2,0,0,0.0,lbw b Amol S
+200,3487,1,SPORTSTERS (SMDL 2.0),Sumeet Gupta,3,2,6,0,0,33.33,c † Rushi A b Amol S
+200,3487,1,SPORTSTERS (SMDL 2.0),Ryan Rodrigues,4,2,6,0,0,33.33,c Shamit D b Shamin K
+200,3487,1,SPORTSTERS (SMDL 2.0),Umesh Mehra,5,51,43,6,1,118.6,b Gautam P
+200,3487,1,SPORTSTERS (SMDL 2.0),Rishikesh Shah,6,0,1,0,0,0.0,b Amol S
+200,3487,1,SPORTSTERS (SMDL 2.0),Jitendra Singh,7,13,17,2,0,76.47,c † Rushi A b Jasneet S
+200,3487,1,SPORTSTERS (SMDL 2.0),Mehul Shah,8,16,16,3,0,100.0,b Shamit D
+200,3487,1,SPORTSTERS (SMDL 2.0),Partho Bakshi,9,0,6,0,0,0.0,St Rushi A b Jasneet S
+200,3487,1,SPORTSTERS (SMDL 2.0),Nikhil Khandelwal,10,1,1,0,0,100.0,not out
+200,3487,2,INDIANA PAINTS TEAM (SMDL 2.0),Jasneet Singh Bindra,1,0,3,0,0,0.0,c Umesh M b Rishikesh S
+200,3487,2,INDIANA PAINTS TEAM (SMDL 2.0),Vidyut Sodha,2,30,23,4,1,130.43,not out
+200,3487,2,INDIANA PAINTS TEAM (SMDL 2.0),Arun Madhu,3,44,22,7,1,200.0,lbw b Nikhil K
+200,3487,2,INDIANA PAINTS TEAM (SMDL 2.0),Charles Sam,4,22,11,3,1,200.0,not out
+200,3488,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Manaan Gandhi,1,61,47,6,0,129.79,lbw b Manindra S
+200,3488,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Shushrut Nasnodkar,2,23,23,2,0,100.0,b Mahesh B
+200,3488,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Deven Dhruva,3,22,13,4,0,169.23,c Pramod C b Sachin J
+200,3488,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Himanshu Ranka,4,17,14,1,1,121.43,lbw b Prashant P
+200,3488,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Jay Samant,5,15,13,0,1,115.38,not out
+200,3488,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Sahil Shah,6,12,7,2,0,171.43,b Manindra S
+200,3488,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Shakti Kapoor,7,1,3,0,0,33.33,run out ( Manindra S )
+200,3488,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Aditya Jain,8,1,1,0,0,100.0,not out
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Viral Somaiya,1,32,17,6,0,188.24,lbw b Abhishek S
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Mayur Biyani,2,16,14,2,0,114.29,c Jay S b Shushrut N
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Manindra Singh,3,35,25,4,0,140.0,lbw b Deven D
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Sachin Jadhavar,4,6,6,1,0,100.0,c Deven D b Abhishek S
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Pramod Chandan,5,48,33,7,0,145.45,b Deven D
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Prashant Panchal,6,2,2,0,0,100.0,run out ( Deven D )
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Akshay Borkar,7,8,11,0,0,72.73,c Abhishek S b Shakti K
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Chinmay Ghate,8,0,3,0,0,0.0,b Aditya J
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Nishant Patankar,9,3,3,0,0,100.0,not out
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Mahesh Biyani,10,1,1,0,0,100.0,run out ( Aditya J )
+200,3488,2,ANTIQUE FRIENDS (SMDL 2.0),Rrahul Keswani,11,6,5,0,0,120.0,not out
+200,3496,1,SAGE ROYALS (SMDL 2.0),Vinod Lund,1,23,21,4,0,109.52,b Sunil P
+200,3496,1,SAGE ROYALS (SMDL 2.0),Vijay Singh,2,76,35,4,7,217.14,St Chirag S b Harsh S
+200,3496,1,SAGE ROYALS (SMDL 2.0),Varun Saboo,3,4,4,0,0,100.0,c † Chirag S b Divya M
+200,3496,1,SAGE ROYALS (SMDL 2.0),Jay Pandya,4,8,9,1,0,88.89,c † Karan C b Vibhu M
+200,3496,1,SAGE ROYALS (SMDL 2.0),Humaid Shaikh,5,25,23,3,0,108.7,c Sunil P b Divya M
+200,3496,1,SAGE ROYALS (SMDL 2.0),Jimish Shah,6,19,15,0,1,126.67,c Girish S b Parag R
+200,3496,1,SAGE ROYALS (SMDL 2.0),Keyur Gandhi,7,29,10,2,3,290.0,c Siddharth G b Mitul P
+200,3496,1,SAGE ROYALS (SMDL 2.0),Vikas Arora,8,2,2,0,0,100.0,not out
+200,3496,1,SAGE ROYALS (SMDL 2.0),Viral Shah,9,1,1,0,0,100.0,not out
+200,3496,2,GIANTS CRICKET CLUB (SMDL 2.0),Vinit Sheth,1,5,7,1,0,71.43,c Akshesh T b Vinod L
+200,3496,2,GIANTS CRICKET CLUB (SMDL 2.0),Karan Chugh,2,6,8,0,0,75.0,b Akshesh T
+200,3496,2,GIANTS CRICKET CLUB (SMDL 2.0),Siddharth Gopalkrishnan,3,28,16,5,0,175.0,run out ( Varun S )
+200,3496,2,GIANTS CRICKET CLUB (SMDL 2.0),Girish Singhania,4,76,45,8,1,168.89,not out
+200,3496,2,GIANTS CRICKET CLUB (SMDL 2.0),Chirag Shah,5,6,9,0,0,66.67,c Humaid S b Karan S
+200,3496,2,GIANTS CRICKET CLUB (SMDL 2.0),Harsh Shah,6,25,26,2,0,96.15,c Humaid S b Varun S
+200,3496,2,GIANTS CRICKET CLUB (SMDL 2.0),Sunil Punjabi,7,10,9,1,0,111.11,St Vijay S b Keyur G
+200,3496,2,GIANTS CRICKET CLUB (SMDL 2.0),Mitul Patel,8,1,1,0,0,100.0,not out
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Sanjeev Sularia,1,0,2,0,0,0.0,lbw b Rishi M
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Snehal Anasariya,2,10,12,2,0,83.33,c Kaustubh G b Manavendra M
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Kumar Adnani,3,9,10,2,0,90.0,c Rahul S b Manavendra M
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Vishal Pandey,4,19,15,3,0,126.67,b Manavendra M
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Prateek Garg,5,23,13,4,0,176.92,lbw b Amit M
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Mukund Jalan,6,18,15,1,0,120.0,b Kaustubh G
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Punit Gambhir,7,59,31,4,4,190.32,b Manavendra M
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Navin Rupani,8,1,2,0,0,50.0,c † Dattaram P b Manavendra M
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Abhimanyu Khanna,9,19,10,2,1,190.0,c Anshul L b Jayesh C
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Aakash Desai,10,0,2,0,0,0.0,c Amit M b Jayesh C
+200,3497,1,ANONYMOUS TITANS (SMDL 2.0),Harshal Shah,11,1,1,0,0,100.0,not out
+200,3497,2,ANIMAL (SMDL 2.0),Vishal Miglani,1,81,48,8,3,168.75,c Vishal P b Aakash D
+200,3497,2,ANIMAL (SMDL 2.0),Anshul Lodha,2,11,7,2,0,157.14,c † Navin R b Kaushal T
+200,3497,2,ANIMAL (SMDL 2.0),Chetan Kapoor,3,5,4,1,0,125.0,c Snehal A b Kaushal T
+200,3497,2,ANIMAL (SMDL 2.0),Yogesh Wagh,4,14,11,2,0,127.27,b Harshal S
+200,3497,2,ANIMAL (SMDL 2.0),Sivanandan Konar,5,48,32,4,2,150.0,not out
+200,3497,2,ANIMAL (SMDL 2.0),Nilay Shah,6,5,5,0,0,100.0,not out
+200,3500,1,ANTIQUE FRIENDS (SMDL 2.0),Viral Somaiya,1,16,9,3,0,177.78,c Jigar P b Shamin K
+200,3500,1,ANTIQUE FRIENDS (SMDL 2.0),Mayur Biyani,2,26,24,3,0,108.33,lbw b Amol S
+200,3500,1,ANTIQUE FRIENDS (SMDL 2.0),Manindra Singh,3,17,13,2,1,130.77,lbw b Arun M
+200,3500,1,ANTIQUE FRIENDS (SMDL 2.0),Tushar Shinde,4,19,26,0,0,73.08,Retired Out
+200,3500,1,ANTIQUE FRIENDS (SMDL 2.0),Sachin Jadhavar,5,55,34,4,2,161.76,run out ( Arun M / Jasneet S )
+200,3500,1,ANTIQUE FRIENDS (SMDL 2.0),Hitesh Khilnani,6,22,13,1,2,169.23,c Viral A b Arun M
+200,3500,1,ANTIQUE FRIENDS (SMDL 2.0),Pramod Chandan,7,1,1,0,0,100.0,not out
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Jasneet Singh Bindra,1,27,24,3,0,112.5,b Sachin J
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Vidyut Sodha,2,23,21,2,1,109.52,c Pramod C b Nishant P
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Arun Madhu,3,17,12,2,1,141.67,lbw b Manindra S
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Charles Sam,4,11,11,1,0,100.0,c&b Sachin J
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Vikas Linga,5,1,3,0,0,33.33,run out ( Sachin J )
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Viral Amin,6,29,19,2,1,152.63,c Hitesh K b Sachin J
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Amol Saraf,7,20,14,2,1,142.86,lbw b Hitesh K
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Rushi Ardeshna,8,17,8,1,1,212.5,c Tushar S b Manindra S
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Jigar Parikh,9,0,2,0,0,0.0,b Manindra S
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Karan Khushalani,10,2,2,0,0,100.0,b Ashwin P
+200,3500,2,INDIANA PAINTS TEAM (SMDL 2.0),Shamit Desai,11,0,0,0,0,0.0,not out
+200,3501,1,SAGE ROYALS (SMDL 2.0),Vinod Lund,1,75,51,8,2,147.06,c Snehal A b Abhimanyu K
+200,3501,1,SAGE ROYALS (SMDL 2.0),Vijay Singh,2,35,22,5,1,159.09,c Vishal P b Rajiv H
+200,3501,1,SAGE ROYALS (SMDL 2.0),Varun Saboo,3,30,21,2,1,142.86,c Vishal P b Prateek G
+200,3501,1,SAGE ROYALS (SMDL 2.0),Piyushkumar Patel,4,1,6,0,0,16.67,b Vishal P
+200,3501,1,SAGE ROYALS (SMDL 2.0),Humaid Shaikh,5,22,12,3,0,183.33,run out ( Abhimanyu K )
+200,3501,1,SAGE ROYALS (SMDL 2.0),Jimish Shah,6,28,9,3,2,311.11,not out
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Vicky Sujan,1,35,16,7,0,218.75,c † Vijay S b Jay P
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Sanjeev Sularia,2,2,7,0,0,28.57,lbw b Jimish S
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Aakash Desai,3,5,6,1,0,83.33,lbw b Akshesh T
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Abhimanyu Khanna,4,4,2,1,0,200.0,c † Vijay S b Akshesh T
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Vishal Pandey,5,30,21,3,1,142.86,run out ( Piyushkumar P )
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Prateek Garg,6,38,24,4,0,158.33,c Humaid S b Akshesh T
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Punit Gambhir,7,2,3,0,0,66.67,lbw b Varun S
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Snehal Anasariya,8,11,9,1,0,122.22,c Varun S b Akshesh T
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Kaushal Trivedi,9,22,11,3,0,200.0,c † Vijay S b Karan S
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Mukund Jalan,10,17,14,2,0,121.43,not out
+200,3501,2,ANONYMOUS TITANS (SMDL 2.0),Rajiv Hingoo,11,4,7,0,0,57.14,lbw b Karan S
+200,3513,1,GIANTS CRICKET CLUB (SMDL 2.0),Vinit Sheth,1,72,47,12,1,153.19,b Abhimanyu K
+200,3513,1,GIANTS CRICKET CLUB (SMDL 2.0),Karan Chugh,2,27,18,5,0,150.0,b Sanjeev S
+200,3513,1,GIANTS CRICKET CLUB (SMDL 2.0),Kalp Parikh,3,3,4,0,0,75.0,c&b Kumar A
+200,3513,1,GIANTS CRICKET CLUB (SMDL 2.0),Harsh Shah,4,16,11,3,0,145.45,lbw b Abhimanyu K
+200,3513,1,GIANTS CRICKET CLUB (SMDL 2.0),Siddharth Gopalkrishnan,5,40,25,5,1,160.0,not out
+200,3513,1,GIANTS CRICKET CLUB (SMDL 2.0),Sunil Punjabi,6,33,15,3,2,220.0,not out
+200,3513,2,ANONYMOUS TITANS (SMDL 2.0),Vicky Sujan,1,80,42,12,2,190.48,c Divya M b Malay J
+200,3513,2,ANONYMOUS TITANS (SMDL 2.0),Harshal Shah,2,20,7,3,1,285.71,c Siddharth G b Rabindra J
+200,3513,2,ANONYMOUS TITANS (SMDL 2.0),Vishal Pandey,3,91,38,11,5,239.47,not out
+200,3513,2,ANONYMOUS TITANS (SMDL 2.0),Abhimanyu Khanna,4,19,8,3,1,237.5,not out
+200,3519,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Manaan Gandhi,1,28,19,6,0,147.37,c † Rushi A b Jigar P
+200,3519,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Ravi Kapoor,2,14,15,2,0,93.33,b Gautam P
+200,3519,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Siddharth Kadam,3,2,9,0,0,22.22,c Charles S b Vikas L
+200,3519,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Deven Dhruva,4,65,32,7,2,203.12,c Charles S b Jigar P
+200,3519,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Jay Samant,5,43,21,4,2,204.76,run out ( Karan K )
+200,3519,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Himanshu Ranka,6,26,18,2,1,144.44,not out
+200,3519,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Sahil Shah,7,8,7,1,0,114.29,run out ( Rushi A )
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Vikas Linga,1,13,5,1,1,260.0,c Manaan G b Abhishek S
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Vidyut Sodha,2,2,6,0,0,33.33,c Jay S b Siddharth K
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Amol Saraf,3,12,17,2,0,70.59,lbw b Deven D
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Rushi Ardeshna,4,21,17,3,1,123.53,b Sahil S
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Charles Sam,5,22,16,3,0,137.5,c Himanshu R b Sahil S
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Gautam Parolia,6,48,34,5,0,141.18,run out ( Siddharth K )
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Jasneet Singh Bindra,7,0,1,0,0,0.0,lbw b Aditya J
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Jigar Parikh,8,12,9,0,1,133.33,lbw b Jay S
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Karan Khushalani,9,11,6,1,1,183.33,b Siddharth K
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Harshwardhan Deshpande,10,1,4,0,0,25.0,b Himanshu R
+200,3519,2,INDIANA PAINTS TEAM (SMDL 2.0),Shamit Desai,11,0,0,0,0,0.0,not out
+200,3523,1,ANIMAL (SMDL 2.0),Chetan Kapoor,1,32,26,4,0,123.08,St Vijay S b Jay P
+200,3523,1,ANIMAL (SMDL 2.0),Vishal Miglani,2,11,10,1,0,110.0,b Jimish S
+200,3523,1,ANIMAL (SMDL 2.0),Pratik Chitalia,3,13,13,1,0,100.0,c Vinod L b Karan S
+200,3523,1,ANIMAL (SMDL 2.0),Yogesh Wagh,4,17,14,2,0,121.43,c Viral S b Jay P
+200,3523,1,ANIMAL (SMDL 2.0),Nilay Shah,5,26,29,2,0,89.66,c Karan S b Akshesh T
+200,3523,1,ANIMAL (SMDL 2.0),Dattaram Parab,6,4,2,1,0,200.0,c Jimish S b Varun S
+200,3523,1,ANIMAL (SMDL 2.0),Amit Manubarwala,7,1,2,0,0,50.0,lbw b Jay P
+200,3523,1,ANIMAL (SMDL 2.0),Manavendra Mishra,8,0,1,0,0,0.0,b Jay P
+200,3523,1,ANIMAL (SMDL 2.0),Jayesh Chawla,9,8,10,1,0,80.0,c Humaid S b Akshesh T
+200,3523,1,ANIMAL (SMDL 2.0),Kaustubh Gupte,10,10,6,1,0,166.67,not out
+200,3523,1,ANIMAL (SMDL 2.0),Rahul Sharma,11,4,7,0,0,57.14,not out
+200,3523,2,SAGE ROYALS (SMDL 2.0),Kaushal Goenka,1,23,36,0,0,63.89,c Kaustubh G b Jayesh C
+200,3523,2,SAGE ROYALS (SMDL 2.0),Vijay Singh,2,87,49,10,4,177.55,c Pratik C b Manavendra M
+200,3523,2,SAGE ROYALS (SMDL 2.0),Viral Shah,3,3,5,0,0,60.0,b Jayesh C
+200,3523,2,SAGE ROYALS (SMDL 2.0),Vikas Arora,4,2,4,0,0,50.0,not out
+200,3523,2,SAGE ROYALS (SMDL 2.0),Vinod Lund,5,3,5,0,0,60.0,c Yogesh W b Jayesh C
+200,3523,2,SAGE ROYALS (SMDL 2.0),Dhawal Shah,6,3,5,0,0,60.0,b Manavendra M
+200,3523,2,SAGE ROYALS (SMDL 2.0),Karan Sharma,7,0,1,0,0,0.0,lbw b Manavendra M
+200,3523,2,SAGE ROYALS (SMDL 2.0),Jay Pandya,8,5,3,1,0,166.67,not out
+200,3524,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Manaan Gandhi,1,63,53,7,0,118.87,c † Ryan R b Hitesh B
+200,3524,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Siddharth Kadam,2,41,37,4,1,110.81,b Shagun S
+200,3524,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Himanshu Ranka,3,3,5,0,0,60.0,c Puneet M b Umesh M
+200,3524,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Ravi Kapoor,4,15,17,2,0,88.24,c Abhishek D b Jitendra S
+200,3524,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Shakti Kapoor,5,4,6,0,0,66.67,run out ( Abhishek D )
+200,3524,1,ALLIANZ CRICKET CLUB (SMDL 2.0),Jay Samant,6,2,2,0,0,100.0,not out
+200,3524,2,SPORTSTERS (SMDL 2.0),Puneet Mehra,1,41,17,9,0,241.18,Retired Out
+200,3524,2,SPORTSTERS (SMDL 2.0),Jeetinder Diwan,2,60,22,7,5,272.73,not out
+200,3524,2,SPORTSTERS (SMDL 2.0),Hitesh Bhayani,3,32,11,4,2,290.91,not out
+200,3527,1,SAGE ROYALS (SMDL 2.0),Vinod Lund,1,13,9,1,1,144.44,c Tripoorraj D b Siddharth K
+200,3527,1,SAGE ROYALS (SMDL 2.0),Vijay Singh,2,0,1,0,0,0.0,lbw b Siddharth K
+200,3527,1,SAGE ROYALS (SMDL 2.0),Varun Saboo,3,7,12,1,0,58.33,c Jay S b Miraj V
+200,3527,1,SAGE ROYALS (SMDL 2.0),Piyushkumar Patel,4,8,11,1,0,72.73,c Himanshu R b Sahil S
+200,3527,1,SAGE ROYALS (SMDL 2.0),Kaushal Goenka,5,9,14,0,0,64.29,lbw b Jay S
+200,3527,1,SAGE ROYALS (SMDL 2.0),Jimish Shah,6,64,44,4,4,145.45,not out
+200,3527,1,SAGE ROYALS (SMDL 2.0),Viral Shah,7,0,1,0,0,0.0,lbw b Jay S
+200,3527,1,SAGE ROYALS (SMDL 2.0),Humaid Shaikh,8,7,7,0,0,100.0,run out ( Tripoorraj D )
+200,3527,1,SAGE ROYALS (SMDL 2.0),Vikas Arora,9,3,5,0,0,60.0,lbw b Himanshu R
+200,3527,1,SAGE ROYALS (SMDL 2.0),Keyur Gandhi,10,8,15,0,0,53.33,St Manaan G b Tripoorraj D
+200,3527,1,SAGE ROYALS (SMDL 2.0),Dhawal Shah,11,1,1,0,0,100.0,not out
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Manaan Gandhi,1,22,24,2,0,91.67,c Jimish S b Karan S
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Siddharth Kadam,2,17,12,1,0,141.67,c † Vijay S b Vinod L
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Ravi Kapoor,3,2,8,0,0,25.0,b Vinod L
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Deven Dhruva,4,61,49,8,1,124.49,c † Vijay S b Piyushkumar P
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Jay Samant,5,0,2,0,0,0.0,c † Vijay S b Karan S
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Himanshu Ranka,6,2,6,0,0,33.33,b Piyushkumar P
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Sahil Shah,7,2,3,0,0,66.67,run out ( Vijay S )
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Aditya Jain,8,7,8,0,0,87.5,not out
+200,3527,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Shakti Kapoor,9,4,1,1,0,400.0,not out
+200,3528,1,ANIMAL (SMDL 2.0),Chetan Kapoor,1,25,22,4,0,113.64,c Tushar S b Pramod C
+200,3528,1,ANIMAL (SMDL 2.0),Rishi Mapara,2,17,14,0,1,121.43,b Pramod C
+200,3528,1,ANIMAL (SMDL 2.0),Nilay Shah,3,34,29,2,1,117.24,b Manindra S
+200,3528,1,ANIMAL (SMDL 2.0),Amit Manubarwala,4,0,4,0,0,0.0,b Mahesh B
+200,3528,1,ANIMAL (SMDL 2.0),Sivanandan Konar,5,52,40,4,1,130.0,run out ( Prashant P )
+200,3528,1,ANIMAL (SMDL 2.0),Anshul Lodha,6,12,10,1,0,120.0,St Viral S b Sachin J
+200,3528,1,ANIMAL (SMDL 2.0),Dattaram Parab,7,1,1,0,0,100.0,not out
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Mayur Biyani,1,21,25,2,0,84.0,c Chetan K b Amit M
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Viral Somaiya,2,6,4,1,0,150.0,lbw b Rahul S
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Prashant Panchal,3,68,55,9,0,123.64,St Dattaram P b Sivanandan K
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Manindra Singh,4,4,6,0,0,66.67,c Pratik C b Amit M
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Pramod Chandan,5,18,16,1,0,112.5,lbw b Rishi M
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Sachin Jadhavar,6,4,3,1,0,133.33,lbw b Kaustubh G
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Hitesh Khilnani,7,10,6,0,1,166.67,run out ( Manavendra M )
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Chinmay Ghate,8,3,2,0,0,150.0,run out ( Manavendra M )
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Nishant Patankar,9,6,3,1,0,200.0,not out
+200,3528,2,ANTIQUE FRIENDS (SMDL 2.0),Tushar Shinde,10,0,0,0,0,0.0,not out
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Vinit Sheth,1,0,4,0,0,0.0,c Amol S b Karan K
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Karan Chugh,2,38,32,5,0,118.75,c&b Arun M
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Kalp Parikh,3,2,7,0,0,28.57,b Amol S
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Girish Singhania,4,56,46,4,1,121.74,c&b Gautam P
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Raj Soni,5,2,6,0,0,33.33,c Amol S b Vikas L
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Chirag Shah,6,4,5,0,0,80.0,c Arun M b Gautam P
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Sunil Punjabi,7,24,16,1,2,150.0,run out ( Arun M )
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Harsh Shah,8,1,2,0,0,50.0,not out
+200,3533,1,GIANTS CRICKET CLUB (SMDL 2.0),Parag Raj,9,2,2,0,0,100.0,not out
+200,3533,2,INDIANA PAINTS TEAM (SMDL 2.0),Rushi Ardeshna,1,1,6,0,0,16.67,c Girish S b Parag R
+200,3533,2,INDIANA PAINTS TEAM (SMDL 2.0),Vidyut Sodha,2,5,5,1,0,100.0,c † Chirag S b Malay J
+200,3533,2,INDIANA PAINTS TEAM (SMDL 2.0),Arun Madhu,3,100,51,8,7,196.08,not out
+200,3533,2,INDIANA PAINTS TEAM (SMDL 2.0),Charles Sam,4,8,5,2,0,160.0,c Harsh S b Parag R
+200,3533,2,INDIANA PAINTS TEAM (SMDL 2.0),Jigar Parikh,5,30,30,2,0,100.0,not out
+200,3544,1,ANIMAL (SMDL 2.0),Chetan Kapoor,1,50,32,7,1,156.25,run out ( Deven D )
+200,3544,1,ANIMAL (SMDL 2.0),Vishal Miglani,2,45,35,8,0,128.57,c Deven D b Jay S
+200,3544,1,ANIMAL (SMDL 2.0),Anshul Lodha,3,14,10,1,0,140.0,St Manaan G b Sahil S
+200,3544,1,ANIMAL (SMDL 2.0),Yogesh Wagh,4,14,12,2,0,116.67,St Manaan G b Sahil S
+200,3544,1,ANIMAL (SMDL 2.0),Nilay Shah,5,5,5,0,0,100.0,c Ravi K b Deven D
+200,3544,1,ANIMAL (SMDL 2.0),Sivanandan Konar,6,27,13,4,1,207.69,c † Manaan G b Jay S
+200,3544,1,ANIMAL (SMDL 2.0),Rishi Mapara,7,3,4,0,0,75.0,run out ( Abhishek S )
+200,3544,1,ANIMAL (SMDL 2.0),Dattaram Parab,8,3,5,0,0,60.0,not out
+200,3544,1,ANIMAL (SMDL 2.0),Manavendra Mishra,9,12,4,2,0,300.0,not out
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Manaan Gandhi,1,44,27,6,0,162.96,b Rishi M
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Ravi Kapoor,2,2,4,0,0,50.0,b Rahul S
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Himanshu Ranka,3,0,5,0,0,0.0,c Manavendra M b Kaustubh G
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Siddharth Kadam,4,44,38,3,1,115.79,b Sivanandan K
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Deven Dhruva,5,23,17,4,0,135.29,lbw b Kaustubh G
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Jay Samant,6,21,17,1,1,123.53,c Rishi M b Yogesh W
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Shakti Kapoor,7,14,10,2,0,140.0,c Rishi M b Yogesh W
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Sahil Shah,8,0,1,0,0,0.0,run out ( Yogesh W )
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Aditya Jain,9,0,0,0,0,0.0,not out
+200,3544,2,ALLIANZ CRICKET CLUB (SMDL 2.0),Abhishek Singh,10,0,1,0,0,0.0,b Yogesh W
+200,3545,1,SPORTSTERS (SMDL 2.0),Puneet Mehra,1,17,17,2,0,100.0,c Rushi A b Jigar P
+200,3545,1,SPORTSTERS (SMDL 2.0),Jeetinder Diwan,2,35,37,3,1,94.59,c Jigar P b Arun M
+200,3545,1,SPORTSTERS (SMDL 2.0),Ryan Rodrigues,3,5,4,1,0,125.0,lbw b Karan K
+200,3545,1,SPORTSTERS (SMDL 2.0),Hitesh Bhayani,4,11,8,2,0,137.5,c † Vikas L b Amol S
+200,3545,1,SPORTSTERS (SMDL 2.0),Umesh Mehra,5,3,7,0,0,42.86,run out ( Rushi A )
+200,3545,1,SPORTSTERS (SMDL 2.0),Suchit Shah,6,17,13,2,1,130.77,c&b Amol S
+200,3545,1,SPORTSTERS (SMDL 2.0),Jitendra Singh,7,6,13,0,0,46.15,not out
+200,3545,1,SPORTSTERS (SMDL 2.0),Abhishek Dutt,8,0,1,0,0,0.0,run out ( Karan K )
+200,3545,1,SPORTSTERS (SMDL 2.0),Mehul Shah,9,7,5,1,0,140.0,run out ( Gautam P )
+200,3545,1,SPORTSTERS (SMDL 2.0),Partho Bakshi,10,0,1,0,0,0.0,b Arun M
+200,3545,1,SPORTSTERS (SMDL 2.0),Shagun Shah,11,3,6,0,0,50.0,St Jigar P b Gautam P
+200,3545,2,INDIANA PAINTS TEAM (SMDL 2.0),Jasneet Singh Bindra,1,59,38,9,1,155.26,St Ryan R b Partho B
+200,3545,2,INDIANA PAINTS TEAM (SMDL 2.0),Vidyut Sodha,2,22,25,2,0,88.0,b Shagun S
+200,3545,2,INDIANA PAINTS TEAM (SMDL 2.0),Arun Madhu,3,17,9,3,0,188.89,c Hitesh B b Suchit S
+200,3545,2,INDIANA PAINTS TEAM (SMDL 2.0),Charles Sam,4,15,6,2,1,250.0,not out
+200,3545,2,INDIANA PAINTS TEAM (SMDL 2.0),Karan Khushalani,5,0,1,0,0,0.0,not out
